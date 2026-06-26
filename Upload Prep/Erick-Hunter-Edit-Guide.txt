@@ -1,0 +1,386 @@
+==========================================================
+THE JOC — PREMIERE PRO EDITING GUIDE
+Player: Erick Hunter | Morgan State University
+Story Type: Advocacy / Systemic Injustice
+Generated: 2026-06-26
+IMPORTANT: This guide is written for a beginner. Every step names the exact Premiere Pro panel, tool, menu, or keyboard shortcut. Do not skip any step.
+==========================================================
+
+
+== SECTION A: PROJECT SETUP ==
+
+STEP 1 — Create a new project:
+Open Premiere Pro. At the top menu bar, click File > New > Project.
+A window will appear asking you to name the project. Type: Erick Hunter.
+Choose where to save it (your Videos or Desktop folder is fine).
+Click OK.
+
+STEP 2 — Create a sequence:
+At the top menu bar, click File > New > Sequence.
+A window will open. Click the Settings tab at the top of that window.
+- Set Editing Mode to: Custom
+- Set Timebase to: 30.00 frames/second
+- Set Frame Size to: 1920 horizontal, 1080 vertical
+- Set Pixel Aspect Ratio to: Square Pixels (1.0)
+At the bottom of that window, in the Sequence Name field, type: Main Edit.
+Click OK.
+You will now see a black horizontal timeline appear in the bottom half of your screen. This is the Timeline panel — where your entire edit lives.
+
+STEP 3 — Import your footage:
+At the top menu bar, click File > Import (or press Ctrl+I on your keyboard).
+Navigate to the folder where your video files, photos, and music are saved.
+Select all of them at once (click one, then hold Shift and click the last one to select everything).
+Click Open (or Import).
+All your files will now appear in the Project panel — the panel in the bottom-left corner of the screen. It looks like a folder with thumbnails.
+
+STEP 4 — Organize your Project panel:
+In the Project panel (bottom-left), right-click in an empty area.
+Choose New Bin. A folder icon appears. Name it: Talking Head. Press Enter.
+Repeat this to create three more bins named: B-Roll, Music, Photos.
+Now drag each file into the correct bin:
+- Your recording of Charlie talking goes in Talking Head.
+- Game footage, historical footage, campus footage goes in B-Roll.
+- Still images and historical photos go in Photos.
+- Music files go in Music.
+This organization will save you significant time when looking for specific clips.
+
+
+== SECTION B: CUTTING YOUR TALKING HEAD FOOTAGE ==
+
+STEP 1 — Load the clip into the Source Monitor:
+In the Project panel (bottom-left), open the Talking Head bin.
+Double-click your talking head clip (the recording of Charlie).
+It will open in the Source Monitor — the large preview panel in the top-left of your screen. You will see Charlie's face appear there.
+
+STEP 2 — Find your good takes:
+Press the spacebar to play the clip. Watch and listen.
+You are looking for the best take of each section — where Charlie speaks clearly, confidently, and without stumbling.
+When you find the start of a good section, press I on your keyboard. This marks the In point (where you want the clip to begin).
+When Charlie finishes that section, press O on your keyboard. This marks the Out point (where you want the clip to end).
+
+STEP 3 — Send the clip to the Timeline:
+Press the comma key (,) on your keyboard to insert the marked section into the Timeline.
+It will appear as a colored block in Video Track 1 (labeled V1) in the Timeline panel (bottom of screen).
+Repeat this process — mark In, mark Out, press comma — for every section of Charlie's script.
+
+STEP 4 — Make a cut inside an existing clip on the Timeline:
+Look at the toolbar directly above the Timeline (it's a thin strip with small icons).
+Press C on your keyboard to switch to the Razor tool. Your cursor becomes a small blade icon.
+Click on the clip in the Timeline at the exact point where you want to make a cut.
+The clip splits into two pieces at that point.
+Press V on your keyboard to switch back to the Selection tool (arrow cursor).
+
+STEP 5 — Delete an unwanted section:
+Use the Razor tool (C) to cut once at the start of the bad section, then cut again at the end.
+Press V to switch to the Selection tool.
+Click on the unwanted section to select it (it will highlight).
+Press the Delete key on your keyboard.
+A gap will appear in the Timeline where that section was.
+
+STEP 6 — Close the gap (Ripple Delete):
+Right-click on the empty gap in the Timeline.
+Choose Ripple Delete from the menu that appears.
+The gap closes and all clips to the right slide left automatically to fill it.
+This is better than just deleting because it keeps the edit tight without leaving dead space.
+
+WHERE TO CUT IN THIS SPECIFIC SCRIPT:
+Cut right after Charlie finishes a complete thought or sentence — never mid-word or mid-breath.
+Natural cut points in this script:
+- After "he did everything right. Everything." — pause before the Morgan State section
+- After "that is not a coincidence. That is a tradition." — these four words deserve a beat of silence before the stats begin
+- After "And then the NFL Combine happens." — this is a major transition; cut then let the Combine section start fresh
+- After "Seven rounds. Two hundred and fifty-seven picks." — pause here for maximum impact before saying the name was never called
+- After "And they still passed." — pause before the pattern explanation
+
+
+== SECTION C: ADDING B-ROLL AND PHOTOS ==
+
+WHAT IS B-ROLL:
+B-roll is any footage or photo that plays over Charlie's voice while Charlie is not visible on screen. It visually illustrates what he is talking about. It hides the talking head and gives viewers something to look at while they absorb the information.
+
+STEP 1 — Place b-roll on Video Track 2:
+In the Project panel (bottom-left), open the B-Roll or Photos bin.
+Find the clip or photo you want to use.
+Click and drag it from the Project panel directly onto Video Track 2 (labeled V2) in the Timeline.
+V2 is the track directly above V1 (where Charlie's talking head sits).
+When you drag a clip to V2, it automatically plays on top of V1. Viewers see the b-roll — Charlie is hidden underneath but his voice continues.
+
+STEP 2 — Trim your b-roll clips:
+Each b-roll clip should last 3 to 8 seconds before cutting to the next one. Short clips keep the video moving.
+To trim a clip, hover your mouse over the left or right edge of the clip in the Timeline.
+Your cursor will change to a red bracket with an arrow.
+Click and drag to shorten the clip from either end.
+
+STEP 3 — Extend photos to the right length:
+Drag a photo from the Project panel to V2 in the Timeline.
+By default, photos appear as short clips. To make a photo hold on screen longer, hover over the right edge of the photo clip until you see the red bracket, then click and drag it to the right to extend the hold time.
+For this video, historical photos should hold for 3 to 5 seconds each. Stats or context graphics can hold for up to 6 seconds.
+
+SPECIFIC B-ROLL AND PHOTOS TO FIND FOR THIS VIDEO:
+
+For the Morgan State / opening section:
+- Morgan State University campus and Talmadge Branch Field (stadium) — search Google Images: "Morgan State football stadium" or "Talmadge Branch Field MEAC"
+- Morgan State Bears football team photos in blue and orange
+- Willie Lanier — search "Willie Lanier Kansas City Chiefs" for Hall of Fame photos. Also search "Willie Lanier Morgan State" for college-era images. NOTE: Check usage rights on historical NFL photos before using them.
+
+For the Erick Hunter stats section:
+- Erick Hunter in action — search "Erick Hunter Morgan State linebacker" on Google Images and the Morgan State athletics website (morganstatebears.com)
+- Tackle/linebacker highlight footage — if you have game film, cut to his biggest hit moments here
+- The blocked kick return play vs Norfolk State if available in game footage
+
+For the Combine section:
+- NFL Combine footage showing linebackers running the forty yard dash — search YouTube for "NFL Combine linebacker drills" (generic footage, not copyrighted specific player clips)
+- Stopwatch graphic or number overlay showing 4.48
+
+For the Draft Day section:
+- NFL Draft 2025 footage or ticker board — generic draft room footage
+- If possible, a simple graphic you create showing "257 PICKS — 0 HBCU PLAYERS"
+
+For the systemic pattern section:
+- Jerry Rice at Mississippi Valley State — search "Jerry Rice Mississippi Valley State Delta Devils" (black-and-white or early-era photos)
+- Deacon Jones Los Angeles Rams era photo
+- Historical HBCU football photos (Morgan State, Mississippi Valley State, Alabama A&M)
+
+For the Detroit Lions section:
+- Detroit Lions logo or facility — search "Detroit Lions logo" (use official team branding carefully, editorial use)
+- Any available photo of Erick Hunter at Lions training camp if it exists by upload time
+
+
+== SECTION D: ADDING MUSIC ==
+
+RECOMMENDED MUSIC MOOD FOR THIS VIDEO:
+This story has three emotional phases and the music should reflect each one:
+
+Phase 1 (0:00 to about 3:00 — the rise):
+Cinematic and slightly triumphant but with underlying tension. Think orchestral strings or piano building slowly. The music should feel like a documentary score — not too happy, not too dark. It needs to carry weight because this story is about injustice, not a simple victory.
+
+Phase 2 (3:00 to about 4:30 — the Combine and Draft Day):
+Build energy with the Combine stats, then drop the music low and almost silent for the draft day section. "Seven rounds. Two hundred and fifty-seven picks." should feel like a held breath. The music pulling back here amplifies the silence.
+
+Phase 3 (4:30 to end — the pattern, the lesson, the CTA):
+Return to a cinematic, documentary-style swell. Bittersweet but ultimately inspiring. The lesson section ("Control what you can control") should feel like a rising score under it, not a celebration — more like a knowing acknowledgment.
+
+WHERE TO FIND ROYALTY-FREE MUSIC:
+Search on: YouTube Audio Library (free, no copyright claim), Pixabay (free), Artlist (subscription), or Epidemic Sound (subscription).
+Search terms to use: "cinematic documentary score," "emotional orchestral instrumental," "tense cinematic strings," "inspiring documentary music."
+
+STEP 1 — Import music:
+Press Ctrl+I to open the Import window. Navigate to your music file. Click Open.
+The music file appears in the Project panel (bottom-left) inside the Music bin.
+
+STEP 2 — Place music in the Timeline:
+Drag the music file from the Project panel to Audio Track 3 (labeled A3) in the Timeline.
+A3 is the third audio track down, below Charlie's voice (A1) and any sound effects.
+
+STEP 3 — Lower the music volume so Charlie's voice stays on top:
+Click on the music clip in the Timeline to select it.
+Look at the top-left area of your screen for the Effect Controls panel. If you don't see it, go to Window > Effect Controls to open it.
+In the Effect Controls panel, look for Volume > Level.
+Click on the number next to Level and type: -22. Press Enter.
+This lowers the music to a background level so it supports Charlie's voice without competing with it. Adjust between -18dB and -25dB based on how loud your specific music track is. Play the timeline and listen — if you can clearly understand every word Charlie says, the music level is correct.
+
+STEP 4 — Fade the music out at the end of the video:
+Right-click on the music clip in the Timeline.
+Choose Show Clip Keyframes > Volume > Level.
+A thin yellow line appears across the top of the audio clip.
+Click on the yellow line at a point about 10 seconds before the end of the video. A small diamond shape (keyframe) appears on the line.
+Click on the yellow line at the very last frame of the clip (the far right end).
+Drag that last keyframe downward all the way to the bottom of the clip.
+The yellow line now slopes downward. This creates a fade-out — the music will smoothly decrease to silence.
+
+
+== SECTION E: ADDING TEXT AND GRAPHICS ==
+
+OPENING THE ESSENTIAL GRAPHICS PANEL:
+At the top menu bar, go to Window > Essential Graphics.
+The Essential Graphics panel opens on the right side of your screen.
+
+ADDING A LOWER THIRD (name and school identification):
+
+A lower third is a small graphic that appears in the lower portion of the screen identifying who is speaking or who is being talked about.
+
+STEP 1: Make sure your playhead (the thin vertical line in the Timeline) is positioned at the moment where Erick Hunter is first mentioned by name — approximately the 0:35 mark in this video.
+
+STEP 2: In the Essential Graphics panel, click Browse.
+
+STEP 3: In the search box, type "lower third." Premiere Pro will show you built-in lower third templates. Drag the one that looks cleanest and most modern onto Video Track 3 (V3) in the Timeline, directly above the clip where his name is first mentioned.
+
+STEP 4: Double-click the lower third in the Program Monitor (the large preview screen in the top-right of your screen). The text becomes editable. Type:
+  Line 1: ERICK HUNTER
+  Line 2: LB | MORGAN STATE UNIVERSITY | MEAC
+
+STEP 5: In the Essential Graphics panel on the right side, change the font to Impact or Oswald Bold. Use title case for names and all-caps for positions and schools.
+
+STEP 6: Stretch or shrink the lower third clip in the Timeline (drag the right edge) so it appears on screen for 3 to 4 seconds.
+
+STAT CARDS — SPECIFIC MOMENTS TO ADD GRAPHIC OVERLAYS:
+
+For this video, add a stat card (bold text on screen) at these three exact moments in the script:
+
+1. WHEN CHARLIE SAYS "Two hundred and ninety-eight" (career tackles):
+   - Go to Window > Essential Graphics. Click the pencil icon at the bottom of the panel (New Item). Choose Text.
+   - A text box appears in the Program Monitor. Click it and type:
+     298 CAREER TACKLES
+     2nd ALL-TIME — MORGAN STATE
+   - In the Essential Graphics panel, set the font to Impact or Anton, all caps, white text, large enough to fill roughly the center third of the screen.
+   - Add a semi-transparent dark rectangle behind the text (in Essential Graphics, add a Rectangle shape and adjust Opacity to 60%) so the text reads clearly over any background.
+   - Place this text layer on V3 in the Timeline, positioned over the clip where Charlie says that line.
+
+2. WHEN CHARLIE SAYS "He runs a 4.48 forty":
+   - Repeat the above process. This time type:
+     4.48 FORTY
+     3rd FASTEST LB IN THE ENTIRE DRAFT CLASS
+   - Make "4.48" very large — this is the most powerful single number in the video. It should fill a large portion of the screen.
+   - The color treatment: white text on black background works best here because it feels like a fact being stamped on screen.
+
+3. WHEN CHARLIE SAYS "met with 31 of the 32 NFL franchises":
+   - Add a stat card:
+     31 OF 32 NFL TEAMS
+     MET WITH HIM PRE-DRAFT
+   - Under that, in smaller text: 0 PICKS
+   - This contrast (31 teams evaluated him, 0 picks) is the visual gut punch of the whole video. Give it room to breathe — hold it on screen for 4 to 5 seconds.
+
+RECOMMENDED FONT: Impact, Anton, or Oswald Bold.
+Stats and key facts: ALL CAPS.
+Player names and school names: Title Case (First Letter Capitalized).
+
+
+== SECTION F: END SCREENS ==
+
+WHY END SCREENS MATTER FOR THIS CHANNEL:
+Channel data shows that viewers who reach the end screen watch an average of 6 minutes and 2 seconds per session — that is double the channel average. End screens are the single highest-performing engagement tool on The JOC. Every video must have them.
+
+STEP 1 — Build the end screen section in Premiere Pro:
+In the Timeline, go to the last 20 seconds of the video (this is where the end screen will live on YouTube after upload).
+In the Essential Graphics panel, add a simple text element that says:
+  WATCH THIS NEXT
+Or place a simple dark-colored card with a blurred version of the video thumbnail as a background.
+Place this on V3 for the last 20 seconds. This is a visual cue to the viewer — it tells them another video is coming and keeps them engaged through the final seconds.
+
+STEP 2 — Add the actual end screen links after uploading to YouTube:
+After you upload the video to YouTube Studio, do the following:
+1. Go to studio.youtube.com. Click on the video.
+2. Click Editor (the pencil/scissors icon on the left sidebar).
+3. Click End Screen in the top bar.
+4. Click Add Element. Add a Video element — select the most recent What Happened video you have published. Place it in the lower-right corner so it does not cover Charlie's face.
+5. Add a second element — click Subscribe Button. Position it in the lower-right area next to the video element.
+6. Save.
+
+WHAT VIDEO TO LINK IN THE END SCREEN:
+This is an advocacy/systemic injustice video about an HBCU player being overlooked by the NFL. Link to another video that carries similar emotional weight — another What Happened story where the player overcame a system working against them, or a video about HBCU sports history that non-HBCU fans would find surprising. If no such video exists yet on the channel, link to your most recent What Happened video regardless of topic.
+
+The end screen is the most important 20 seconds of this video. Do not skip it.
+
+
+== SECTION G: COLOR GRADING ==
+
+OPENING LUMETRI COLOR:
+At the top menu bar, go to Window > Lumetri Color.
+The Lumetri Color panel opens on the right side of your screen (it may appear as a tab next to Essential Graphics).
+
+STEP 1 — Grade the talking head clips:
+Click on one talking head clip in the Timeline to select it.
+In the Lumetri Color panel, click on Basic Correction to expand it.
+Set these values:
+  Exposure: +0.2
+  Contrast: +15
+  Highlights: -10
+  Shadows: +10
+  Whites: +5
+  Blacks: -5
+This creates a clean, punchy look — Charlie looks bright, the image has depth, and nothing looks flat or washed out.
+
+COLOR TREATMENT RECOMMENDATION FOR THIS VIDEO:
+This is a heavy, serious documentary story with a bittersweet ending. The color treatment should be slightly warm and cinematic — not cold and sterile, not bright and fun.
+
+After the Basic Correction adjustments above, click Color Wheels & Match in the Lumetri Color panel.
+Slightly push the Shadows color wheel toward a cool blue (just a small nudge — you don't want it to be obvious). This makes the dark areas feel more dramatic.
+Slightly push the Midtones color wheel toward warm amber/orange. This gives Charlie's skin a documentary-style warmth.
+
+Specific values to try in the Curves section (also in Lumetri Color):
+  - Create a subtle S-curve: drag the shadows (bottom left of the curve) slightly down, drag the highlights (top right) slightly up. This increases contrast and makes the image feel more cinematic.
+
+STEP 2 — Copy this grade to all other talking head clips:
+Right-click on the clip you just graded in the Timeline.
+Choose Copy.
+Hold Shift and click on all other talking head clips in the Timeline to select them all.
+Right-click on the selected clips.
+Choose Paste Attributes.
+In the Paste Attributes window, check the box next to Lumetri Color.
+Click OK.
+All talking head clips now share the same color grade.
+
+FOR B-ROLL AND PHOTOS:
+Apply the same grade individually to historical black-and-white or low-quality archival photos, but go to Lumetri Color > Creative and reduce Vibrance to -10 and Saturation to -5. This makes archival images look consistent and intentional rather than random.
+
+
+== SECTION H: PACING NOTES FOR THIS SPECIFIC VIDEO ==
+
+This script has a very deliberate emotional arc. The editing pace should mirror it exactly.
+
+FAST CUTS — Under 2 seconds between talking head clips:
+
+1. The final season stat run (when Charlie lists: "102 tackles, 14 tackles for loss, four sacks, four forced fumbles, an interception, and a blocked kick return"):
+   Each stat should hit rapid-fire. Cut a b-roll clip or stat card every 1 to 1.5 seconds. This section should feel like a highlight reel. The viewer should feel the WEIGHT of how much he did.
+
+2. The Combine numbers (4.48 forty, 37-inch vertical, "third fastest linebacker"):
+   Same approach — rapid stat cards, each one staying on screen for 1.5 seconds max. Let the numbers pile up like evidence being presented in a courtroom.
+
+BREATHE — Hold 3 to 4 seconds with no cut, no music swell, no graphics:
+
+1. After Charlie says: "Seven rounds. Two hundred and fifty-seven picks."
+   Stop. Cut to Charlie on camera. Let him sit there for a full 2 seconds before he continues with "And Erick Hunter's name was never called." The silence here is the edit. Do not rush past this moment. This is the emotional center of the entire video.
+
+2. After Charlie says: "Not once."
+   Again — hold. Let it breathe. If there is background music playing, consider muting it here for just 1 to 2 seconds. Silence in a video is jarring and powerful. Use it deliberately.
+
+3. During the closing lesson: "He made it impossible to be ignored — and they ignored him anyway. And he still kept going."
+   Hold on a single still photo of Erick Hunter here if you have one. Let the image stay on screen for 4 to 5 seconds. Slow the edit down. This is the moment the viewer is meant to feel something.
+
+ENERGY BUILD — Cuts that accelerate to drive a point home:
+
+When Charlie says: "Because Erick Hunter is not the exception. He is part of a pattern. And patterns do not fix themselves."
+This is a rising moment of urgency. Cut to b-roll faster here — historical photos of Jerry Rice, Willie Lanier, Deacon Jones — rapid-fire to visually reinforce that this is a decades-long issue, not just one draft year. Each photo should be 1 to 2 seconds.
+
+SUBSCRIBE CTA:
+When Charlie stops to say "If this is your first time on The J.O.C...." this is a natural pause in the narrative. The pacing should slow here. Hold on Charlie's face. Do not cut away. This moment asks the viewer to take action — a distraction here loses the conversion.
+
+
+== SECTION I: EXPORT AND UPLOAD ==
+
+STEP 1 — Export your video:
+When your edit in the Timeline is complete and you have played it through from start to finish to check for mistakes, press Ctrl+M on your keyboard.
+The Export Settings window opens.
+
+Set these options:
+  Format: H.264
+  Preset: YouTube 1080p Full HD
+  Check the box that says: Use Maximum Render Quality
+  Output Name: Click the blue text to choose where to save the file and name it — use "Erick Hunter - The JOC" or similar.
+  Check Export Video and Export Audio are both checked.
+
+Click Export. Premiere Pro will process the file. This may take several minutes depending on your computer speed. A progress bar will appear. Do not close Premiere Pro until it reaches 100%.
+
+STEP 2 — Upload to YouTube Studio:
+Go to studio.youtube.com.
+Click the Upload button (blue camera icon in the top right).
+Select your exported file and wait for it to process.
+
+While it processes, paste in from the SEO package:
+  - Title: Use the recommended title from the SEO package
+  - Description: Copy and paste the full description including chapters
+  - Tags: Copy and paste all 17 tags
+  - Thumbnail: Upload your custom thumbnail image
+
+Set visibility to Scheduled or Public when you are ready.
+
+STEP 3 — After upload is complete:
+1. Add the video to the playlist: The JOC - What Happened Series (instructions in the SEO package Playlist section)
+2. Add end screens: Go to YouTube Studio editor for this video, click End Screen, add two elements as described in Section F above.
+3. Confirm chapters appear correctly in the description — YouTube auto-generates chapters when you include timestamps in the format 0:00, 0:35, 1:20, etc.
+
+
+==========================================================
+PULL THIS FILE FROM GITHUB DESKTOP TO GET STARTED
+File location in repo: Upload Prep/Erick-Hunter-Edit-Guide.txt
+==========================================================
