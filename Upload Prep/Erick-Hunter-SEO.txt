@@ -1,0 +1,100 @@
+==========================================================
+THE JOC — YOUTUBE SEO PACKAGE
+Player: Erick Hunter | Morgan State University
+Story Type: Advocacy / Systemic Injustice
+Generated: 2026-06-26
+==========================================================
+
+== TITLE OPTIONS ==
+
+[RECOMMENDED — Use This One]
+1. "31 NFL Teams. Zero Picks. | Erick Hunter's Story"
+   Character count: 50
+   WHY: Leads with the most shocking stat in the script — 31 meetings and no draft call. The contrast is so extreme it forces a click. NFL draft fans, HBCU fans, and sports injustice fans all have a reason to click. The number "31" is the hook — people want to understand how that math is possible.
+
+2. "The 4.48 Linebacker the NFL Ignored | Erick Hunter"
+   Character count: 51
+   WHY: NFL Combine followers search "fastest linebacker combine" every draft cycle. This title reaches fans who never heard of Morgan State but care about measurables. "Ignored" creates the emotional punch after the athletic credential is established.
+
+3. "What Happened to Erick Hunter? Morgan State's Stolen Draft"
+   Character count: 58
+   WHY: Matches the What Happened series branding exactly. "Stolen Draft" implies systemic injustice without being vague clickbait. Best for HBCU fans already searching for this player specifically.
+
+
+== DESCRIPTION ==
+
+He ran the third fastest forty in the entire linebacker draft class. He met with 31 NFL teams. And on draft day, 257 picks went by — and nobody called his name.
+
+Erick Hunter from Morgan State University put up numbers that belong in any conversation about elite defensive talent — 298 career tackles (2nd all-time at Morgan State), MEAC conference leader in tackles, FCS Second-Team All-American, and a finalist for the Buck Buchanan Award — the highest individual honor in FCS football for a defensive player. He did everything the system asked of him. And the system still said no.
+
+Chapters:
+0:00 — Intro: The Most Painful Draft Story in Recent HBCU Memory
+0:35 — Morgan State's Legacy: From Willie Lanier to Erick Hunter
+1:20 — Building a Legend: Dominance Across Four Years in the MEAC
+2:35 — The Final Season: 102 Tackles, 14 TFL, 4 Sacks, 90-Yard Return
+3:20 — The NFL Combine: Running 4.48 and Meeting 31 Teams
+4:05 — Draft Day: 257 Picks. Complete Silence.
+4:55 — The Bigger Pattern: HBCU Players and the NFL's Credibility Gap
+5:50 — Where Is Erick Hunter Now? Detroit Lions Undrafted Free Agent
+6:30 — The Lesson + Comment Debate
+
+Subscribe to The JOC for HBCU sports stories that never get told anywhere else.
+
+
+== TAGS (17 tags) ==
+
+Erick Hunter
+Morgan State Football
+Morgan State University
+HBCU Football
+HBCU Sports
+HBCU Football History
+The JOC
+Journey of Champions
+NFL Draft 2025
+HBCU NFL Draft
+MEAC Football
+MEAC Linebacker
+Buck Buchanan Award
+HBCU Undrafted NFL
+Detroit Lions Undrafted Free Agent
+Willie Lanier Morgan State
+FCS All-America Linebacker
+
+
+== THUMBNAIL CONCEPT ==
+
+LAYOUT: Two-panel split down the center with a bold dark dividing line or jagged graphic edge.
+
+LEFT PANEL — Erick Hunter in uniform:
+  Image to find: Action photo of Erick Hunter in Morgan State blue-and-orange — mid-tackle, post-sack, or pointing at the camera after a big play.
+  Where to look: Morgan State Athletics website (morganstatebears.com) press releases and game recaps. Google Images search: "Erick Hunter Morgan State linebacker." Also check the Morgan State Athletics Twitter/X page — they post high-resolution game photos.
+  Color treatment: Keep the blue and orange vibrant. You can slightly desaturate the background behind him while keeping his uniform colors saturated. This makes him pop off the panel.
+
+RIGHT PANEL — The rejection/shock graphic:
+  Option A (most powerful): Black background. "4.48" in massive white Impact font filling 80% of the panel. Below it in smaller text: "3rd FASTEST LB IN THE CLASS." Below that in red: "UNDRAFTED."
+  Option B: A split of NFL team logos arranged in a grid (representing the 31 teams), with a large red X over the whole grid.
+  Color treatment: Black background with white and red text. High contrast — readable at sidebar thumbnail size.
+
+TEXT OVERLAY (3 words max, centered across both panels or bottom):
+  THEY ALL PASSED
+  or: NOBODY CALLED HIM
+  Font: Impact or Anton, all caps, white with black outline. Size it so the text is readable when the thumbnail is the size of your thumbnail.
+
+MOBILE TEST BEFORE FINALIZING: Pull up YouTube on your phone. Search for any NFL draft or HBCU video. Look at the thumbnails in suggested. Hold your thumbnail next to them mentally — does the color contrast stand out? Is the text readable at that size? If not, increase font size and contrast before finalizing.
+
+
+== PLAYLIST ASSIGNMENT ==
+
+Assign this video to: The JOC - What Happened Series
+
+How to do it in YouTube Studio:
+1. After uploading the video, go to YouTube Studio (studio.youtube.com).
+2. Click on the video in your video list.
+3. Click Edit Video.
+4. On the left side menu, click Playlists.
+5. Check the box next to "The JOC - What Happened Series."
+6. If that playlist does not exist yet, click Create New Playlist and name it exactly: The JOC - What Happened Series
+7. Click Save.
+
+NOTE: Adding this to the playlist immediately after upload maximizes the chance that YouTube recommends it alongside other videos in the series, which channel data shows increases average watch time to 3:52 versus non-playlist viewers.
