@@ -1,0 +1,13 @@
+NEXT UP: Andrew Body
+
+UPLOAD SCHEDULE:
+- June 20: Tavaris Jackson (live — 9,021 views)
+- June 25: CF27 (live — 3,562 views)
+- July 2: Ian Wheeler (scheduled)
+- July 9: Erick Hunter (prep done)
+- July 16: Andrew Body
+- July 23: Wilberforce Returns
+
+HOW TO UPDATE:
+After you drop each video, change the NEXT UP line to the next video in the schedule.
+The Upload Prep agent reads this file every Friday to prep the right script.
