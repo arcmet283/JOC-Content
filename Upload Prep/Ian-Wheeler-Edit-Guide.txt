@@ -1,0 +1,89 @@
+==========================================================
+THE JOC — EDITING GUIDE
+Player: Ian Wheeler | Howard University
+Story Type: Comeback / HBCU to Pro
+Generated: 2026-06-28
+==========================================================
+
+== CHAPTER BREAKDOWN & B-ROLL GUIDE ==
+
+[00:00 – 00:45] INTRO / HOOK
+Script: "What if I told you one of the best comeback stories in professional football started at Howard University..."
+- B-roll: Howard University campus shots, Howard Bison stadium, "Thurgood Marshall, Toni Morrison" text cards or images to establish school prestige
+- Tone: Calm, setup energy — let the words do the work, no hype music yet
+- Cut pacing: Slow, deliberate
+
+[00:45 – 01:45] IAN WHEELER AT HOWARD
+Script: "Wheeler spent five seasons with the Howard Bison, rushing for over 1,100 yards and 14 touchdowns..."
+- B-roll: Howard Bison game footage (YouTube search: "Howard University football highlights"), running back carries
+- On-screen stat card: "1,100+ rushing yards | 14 TDs | 5 seasons"
+- Music: Lo-fi or understated — building energy, not there yet
+
+[01:45 – 02:45] NFL DRAFT, CHICAGO BEARS, ACL TEAR
+Script: "When the NFL Draft passed without his name being called... During the preseason, Wheeler tore his ACL."
+- B-roll: NFL Draft room footage (generic B-roll), Chicago Bears preseason game clips
+- Sound effect option: Clock ticking during draft wait, then cut to silence on ACL moment
+- On-screen text: "ACL. Season over." — simple, minimal, let it land
+- This is the emotional low point — don't rush it
+
+[02:45 – 03:00] SUBSCRIBE BREAK
+Script: "Quick pause — if this is your first time on The J.O.C., this is what we do here..."
+- Cut to your face cam (if used) OR simple JOC logo card
+- Keep this tight — 15 seconds max
+
+[03:00 – 04:00] LOUISVILLE KINGS / UFL
+Script: "He found his way to the Louisville Kings of the United Football League..."
+- B-roll: UFL Louisville Kings highlights (YouTube: "Louisville Kings UFL highlights 2025/2026")
+- Ian Wheeler carries and receptions if available
+- Energy starts building here — music uptick
+
+[04:00 – 05:00] UFL CHAMPIONSHIP MVP — THE PEAK
+Script: "Louisville Kings versus the DC Defenders. At Audi Field in Washington D.C. — practically Howard's backyard."
+- B-roll: UFL Championship game footage (YouTube: "United Bowl 2026" or "Louisville Kings championship")
+- Ian Wheeler's 81-yard performance, the trophy presentation
+- THIS IS THE CLIMAX — highest energy point of the edit
+- Music: Full build, hit the drop when he wins MVP
+- On-screen stat card: "81 Yards | 1 TD | UNITED BOWL MVP"
+- Slow motion on key plays if available
+
+[05:00 – 06:00] THE HBCU LEGACY SECTION
+Script: "Richard Dent played college football at Tennessee State... Doug Williams at Grambling... Jerry Rice at Mississippi Valley State..."
+- B-roll: Richard Dent Super Bowl XX clips, Doug Williams Super Bowl XXII 2nd quarter, Jerry Rice highlights
+- On-screen cards for each: School name → Achievement
+  - "Tennessee State → Super Bowl XX MVP"
+  - "Grambling State → Super Bowl XXII MVP"
+  - "Mississippi Valley State → Greatest WR of All Time"
+  - "Howard University → United Bowl MVP | Buffalo Bills"
+- Music: Ceremonial, triumphant — this is a legacy moment
+
+[06:00 – 06:45] BUFFALO BILLS + OUTRO
+Script: "After winning United Bowl MVP, the Buffalo Bills came calling..."
+- B-roll: Buffalo Bills team footage, Bills Mafia energy, Highmark Stadium
+- End on the full arc one more time: Howard → ACL → UFL MVP → Bills
+- CTA: Comment question ("Does Ian Wheeler make the Bills roster?"), subscribe push
+- Music: Fade out clean
+
+
+== PACING NOTES ==
+
+- Target runtime: 7–9 minutes (your sweet spot based on Trey Holly/Tavaris performance)
+- Don't rush the ACL section — that silence is what makes the comeback land
+- The legacy section (Dent/Williams/Rice) is your most powerful minute — let each name breathe
+- Subscribe break at 2:45 catches viewers before the best part, not after
+
+
+== MUSIC SUGGESTIONS ==
+
+Opener (00:00–01:45): Lo-fi/ambient, understated
+Build (03:00–04:00): Tempo pick up, expectation building
+Climax (04:00–05:00): Full energy, triumphant drop for the MVP moment
+Legacy section (05:00–06:00): Orchestral/cinematic
+Outro (06:00+): Fade to calm, inspirational
+
+
+== THUMBNAIL NOTE ==
+
+See Ian-Wheeler-SEO.txt for thumbnail layout.
+Best image: Wheeler in Louisville Kings uniform (UFL championship game) if you can source it.
+Fallback: Howard Bison uniform action shot + Bills logo side by side.
+
