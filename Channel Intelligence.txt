@@ -8,285 +8,333 @@ The Scout agent and Script Writer should read this before generating ideas or sc
 
 ╔══════════════════════════════════════════════════════════════════╗
 ║  ANALYTICS REVIEW #1 — July 13, 2026                           ║
-║  Data window: June 15 – July 12, 2026 (28 days)               ║
-║  Source: YouTube Studio export (Chart data, Table data, Totals) ║
+║  Data window: LIFETIME (channel inception through July 12, 2026)║
+║  Source: YouTube Studio lifetime export (Chart data, Table data)║
 ╚══════════════════════════════════════════════════════════════════╝
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CHANNEL HEALTH SNAPSHOT
+CHANNEL LIFETIME HEALTH SNAPSHOT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Total Views (28 days):       15,279
-Total Unique Viewers:        12,759
-New Viewers:                 11,016  (87%)
-Returning Viewers:            1,667  (13%)
-Watch Time:                  718.9 hours
-Subscribers Gained:            112
-Total Impressions:           182,423
-Overall CTR:                   5.0%
-Overall Avg View Duration:     2:50
+Total Views (lifetime):      146,866
+Watch Time:                  7,384.6 hours
+Subscribers:                 1,059
+Total Impressions:           1,739,987
+Overall CTR:                   5.8%
+Overall Avg View Duration:     3:01
 
-CONTEXT: The channel is in new-viewer acquisition mode. 87% of all
-viewers are first-time visitors — the algorithm is surfacing JOC
-content to new audiences at a healthy rate. The low returning
-viewer % (13%) means subscribers aren't yet habitually coming back.
-This is normal for a growing channel under 10k subs, but building
-retention should become a priority once the sub count grows.
+NOTE ON NEW VS RETURNING: A separate 28-day window export also exists in
+this folder. That data showed 87% new viewers / 13% returning in the last
+month — meaning the channel is actively acquiring new audiences but hasn't
+yet built strong repeat viewership. Normal for a channel at this stage.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-DATA LIMITATION — READ FIRST
+FORMAT BREAKDOWN — LIFETIME
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-IMPORTANT: This export covers a 28-day window (June 15 – July 12, 2026).
-Most videos in the catalog were published months or years before this window.
-Their view counts here represent tail/residual traffic only — NOT launch
-performance. Comparing a 2024 video's 28-day leftover traffic to a June 2026
-video's launch spike is not a valid comparison.
+FORMAT           VIDEOS    VIEWS    SUBS   WATCH TIME   IMPRESSIONS
+---------------  ------  -------   -----  ----------   -----------
+Gaming             15    94,702    685    5,132.7h      996,915
+What Happened?      4    34,285     92    1,238.4h      401,639
+Other              24    13,405     90      623.1h      299,847
+Shorts              4       521      2        1.5h        1,433
+Podcast            11       315      0       82.4h        3,901
 
-What this data CAN tell us:
-  ✓ Head-to-head performance of the 3 videos that LAUNCHED during this window
-    (Arkansas/Tavaris Jackson, CF27, Ian Wheeler — all published Jun-Jul 2026)
-  ✓ CTR on any video — thumbnail/title quality doesn't decay with age
-  ✓ Returning vs new viewer ratios — reflects audience loyalty by format
-  ✓ Channel-wide health metrics (total views, subs, avg view duration)
-  ✓ Shorts traffic behavior
-
-What this data CANNOT tell us:
-  ✗ How the Oregon, LSU, or Savannah State "What Happened?" videos performed
-    at launch — they had their spike 9-10 months before this window
-  ✗ Whether any format "works" or "doesn't work" based on old videos'
-    residual traffic in a 28-day snapshot
-
-To properly compare "What Happened?" videos across the backlog, we need
-YouTube Studio analytics pulled for each video's first 28 days individually,
-or a channel lifetime export. Flag this for the next data collection.
+THE BIG PICTURE: Gaming content is the channel's primary engine —
+64% of all lifetime views, 65% of all subscribers, 57% of all
+watch time. The "What Happened?" series is a strong #2 at 23% of
+views and growing. Everything else is currently marginal.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-EVERY VIDEO IN THE WINDOW — KEY STATS
+ALL VIDEOS — LIFETIME STATS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-* = video launched during this 28-day window (valid for head-to-head comparison)
-  = all others are older videos showing tail/residual traffic only
 
-VIDEO                                           PUB DATE    VIEWS   CTR     AVG DUR   SUBS  IMPRESSIONS
-----------------------------------------------  ----------  ------  ------  --------  ----  -----------
-*From Arkansas to Alabama State! What Happened? Jun 20 '26  10,007   4.76%   3:03      50   116,494
-*HBCUs in College Football 27 | Team Builder?   Jun 25 '26   4,605   5.59%   2:24      45    57,469
- HBCU Teambuilder Teams (EA CF Pt1)             Oct 6 '24     110   9.08%   2:52       1       804
-*Deacon Jones [Short]                           Jun 24 '26      72     n/a   0:11       0         0
- HBCU Teambuilder Teams (EA CF Pt2)             Nov 9 '24      70  10.98%   2:07       1       410
- HBCUs In College Football 26?                  Jun 8 '25       67   9.42%   1:27       0       499
-*He Tore His ACL and Got Cut by the NFL...      Jul 2 '26       56   1.65%   2:19       1     2,177
-*Willie Lanier [Short]                          Jun 30 '26      42     n/a   0:11       0         0
- From Oregon To Delaware St.! What Happened?    Aug 27 '25      31   4.50%   2:21       0       422
- From LSU to Southern! What Happened?           Sep 7 '25       30   3.63%   2:55       0       496
- From the Power 4 to Savannah State! W.H.?      Sep 18 '25      26   3.47%   2:32       0       606
- EA Shuts Down TeamBuilder Site!                Jul 3 '25       19   2.00%   0:50       0       100
- The HBCU to ACC Pipeline?                      Jan 15 '26      18   2.39%   7:09       0       335
- Team Builder Just SAVED College Football 26    Jun 27 '25      16   2.17%   1:26       0       184
- The Ashton Jeanty of HBCU Football?            Dec 16 '24      11   6.67%   5:23       0       105
- John Madden's Unknown Love for HBCUs           Aug 17 '25       9   5.63%   2:19       0       142
- These 4 HBCU Stars Are On The Move!            Jun 2 '25        7   0.70%   3:34       0       287
- How These HBCU Athletes Became WWE Superstars  Apr 24 '25       6   1.36%   2:38       0       221
- The Most Tampered With Freshman in CBB?        Feb 17 '25       8   2.82%   2:49       0       177
-*Rayfield Wright [Short]                        Jul 12 '26      13     n/a   0:13       0         0
- (All other videos: <10 views each this period)
+VIDEO                                           PUB DATE     VIEWS    CTR    AVG DUR  SUBS   IMPR
+----------------------------------------------  ----------  ------  ------  -------- -----  --------
+GAMING
+HBCU Teambuilder Teams (EA CF Pt.1)             Oct 6 '24   21,036   8.41%   3:37    187    183,929
+HBCU's In EA College Football?                  May 20 '24  17,339   6.46%   2:52    130    197,886
+College Football 25 Dynasty Extras              Jul 7 '24   10,228   7.61%   3:31     44    105,111
+Team Builder Just SAVED College Football 26     Jun 27 '25   9,878   9.15%   2:35     29     82,595
+HBCUs In College Football 26?                   Jun 8 '25    9,359  11.28%   1:39     87     60,600
+HBCU Teambuilder Teams (EA CF Pt.2)             Nov 9 '24    7,311   9.95%   2:31     68     53,466
+My College Football 25 Gameplay DEEP DIVE!      Jun 23 '24   5,847   4.87%   6:22     39     96,901
+HBCUs in College Football 27 | Team Builder?    Jun 25 '26   4,605   5.59%   2:24     45     57,469
+EVERYTHING: COACHING In College Football 25     Jul 4 '24    2,912   7.17%   3:23     12     32,268
+EVERYTHING: RECRUITING In College Football 25   Jul 6 '24    2,543   3.94%   7:07     22     43,113
+My CF25 Sights and Sounds DEEP DIVE!            Jun 29 '24   1,365   3.73%   4:18     10     30,486
+EA Shuts Down TeamBuilder Site!                 Jul 3 '25    1,346   4.40%   1:11      8     19,512
+Everything WRONG With CF26 Teambuilder Dynasty  Aug 1 '25      594   2.22%   2:51      3     19,501
+Every HBCU Player in Madden 26                  Aug 10 '25     197   1.58%   2:09      1      7,105
+He Tore His ACL and Got Cut by the NFL...       Jul 2 '26       56   1.65%   2:19      1      2,177
+
+WHAT HAPPENED? SERIES
+From LSU to Southern! What Happened?            Sep 7 '25   18,850   4.39%   1:45     27    224,856
+From Arkansas to Alabama State! What Happened?  Jun 20 '26  10,007   4.76%   3:03     50    116,494
+From Oregon To Delaware St.! What Happened?     Aug 27 '25   4,487   7.51%   2:04     11     43,240
+From the Power 4 to Savannah State! W.H.?       Sep 18 '25     941   4.24%   1:28      4     17,049
+
+OTHER NOTABLE
+HBCU's vs the NFL Draft?                        May 12 '24   1,323   3.87%   2:36     13     26,588
+Notable HBCU Transfers! (2024)                  May 26 '24   1,322   3.12%   3:47     13     33,127
+The Ashton Jeanty of HBCU Football?             Dec 16 '24   1,646   5.22%   4:13     10     21,629
+Who Will Make the Best College Basketball Game? Jan 18 '25   2,900   3.57%   3:07     17     62,940
+The Most Tampered Freshman in College Bball?    Feb 17 '25   1,837   3.90%   1:46      4     16,506
+The HBCU to ACC Pipeline?                       Jan 15 '26     292   2.57%   2:59      1      8,546
+
+SHORTS (<=60 seconds)
+Deacon Jones [Short]                            Jun 24 '26      72    n/a    0:11      0          0
+Willie Lanier [Short]                           Jun 30 '26      42    n/a    0:11      0          0
+Rayfield Wright [Short]                         Jul 12 '26      13    n/a    0:13      0          0
+Let's Go!! [Short]                              Jul 6 '24      394   2.02%   0:12      2      1,433
+
+(Ian Wheeler video filed under Gaming above — no HBCU school in title, framed as NFL story)
+(All other videos: <300 views each, see raw CSV for full data)
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 TOP PERFORMER
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-#1 — "From Arkansas to Alabama State! What Happened?" (Tavaris Jackson)
-  Published: June 20, 2026
-  Views: 10,007 — accounts for 65.5% of all channel views this period
-  Watch Time: 510.9 hours — accounts for 71% of all channel watch time
-  Subscribers: 50 — accounts for 45% of all subscribers gained
-  Impressions: 116,494 | CTR: 4.76% | Avg View Duration: 3:03
-  Video length: 10:50 | Retention rate: ~28%
+#1 LIFETIME — HBCU Teambuilder Teams To Download In EA College Football Pt.1
+  Published: October 6, 2024
+  Views: 21,036 | CTR: 8.41% on 183,929 impressions
+  Avg View Duration: 3:37 | Subscribers: 187 (18% of all channel subs ever)
+  Watch Time: 1,271.7 hours
 
-  WHY IT WORKED:
-  — Power 5 school (Arkansas) + HBCU destination (Alabama State) = clear search hook
-  — "What Happened?" title format immediately signals a story with a twist
-  — Published during EA College Football 27 pre-release hype window, which
-    kept the algorithm active on HBCU sports content broadly
-  — 116k impressions signals YouTube distributed this aggressively — the CTR
-    held above 4.5%, which is the threshold that keeps distribution going
-  — 91% new viewers: this video is the channel's primary discovery engine
+  This is the channel's foundational video. It built the subscriber base
+  that everything else is growing on top of.
 
+#1 RECENT — From Arkansas to Alabama State! What Happened? (Tavaris Jackson)
+  Published: June 20, 2026 — only 23 days old at time of this export
+  Views: 10,007 | CTR: 4.76% on 116,494 impressions
+  Avg View Duration: 3:03 | Subscribers: 50
+  Already the #5 video lifetime and still growing.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-CONFIRMED PATTERNS (backed by real data)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-PATTERN 1: "What Happened?" is the channel's strongest confirmed format —
-with one valid head-to-head data point so far.
-
-  Valid comparison (both launched in this window):
-  — "From Arkansas to Alabama State! What Happened?" → 10,007 views, 4.76% CTR
-  — "He Tore His ACL and Got Cut by the NFL. Then This Happened." → 56 views, 1.65% CTR
-
-  The Arkansas/Tavaris video outperformed Ian Wheeler's video by ~180x in views
-  and nearly 3x in CTR. Both are new-release videos so this IS a fair comparison.
-
-  NOTE: The Oregon, LSU, and Savannah State "What Happened?" videos showing
-  31/30/26 views in this window are OLD videos (Aug-Sep 2025) that had their
-  launch spike long before this data window. We cannot use their tail traffic
-  to assess how the "What Happened?" format performs at launch for those subjects.
-  That comparison is invalid until we have their first-28-days data.
-
-  What we CAN say from the one valid comparison: The "What Happened?" framing
-  with a recognizable school name in the title (Arkansas) vastly outperformed
-  a generic NFL emotional hook (Ian Wheeler) in both CTR and YouTube
-  distribution. Source school name recognition is a hypothesis worth testing,
-  but needs more launch-window data to confirm.
-
-  Scout instruction: Continue tracking "What Happened?" videos at launch.
-  Erick Hunter and Andrew Body will add two more valid data points next month.
-
-PATTERN 2: EA College Football content is the reliable #2 lane — and it
-builds a MORE LOYAL audience than the story content.
-
-  Data: CF27 video (4,605 views, 5.59% CTR on 57k impressions) is the only
-  other video generating meaningful traffic. More importantly, 26% of CF27
-  viewers are returning visitors vs. only 9% for the Arkansas "What Happened?"
-  video. The older Teambuilder videos (Pt.1 and Pt.2) show 45-55% returning
-  viewers — the gaming audience keeps coming back.
-
-  Interpretation: HBCU story content acquires new viewers. Gaming content
-  retains them and builds a subscriber base. Both lanes are necessary.
-
-  Script Writer instruction: At least one EA/gaming video per major game
-  release cycle is non-negotiable for channel health. These are lower-effort
-  videos that punch above their weight on subscriber retention.
-
-PATTERN 3: High CTR alone means nothing without impressions to back it up.
-
-  Data:
-  — Teambuilder Pt.2: 10.98% CTR × 410 impressions = 70 views
-  — CF27: 5.59% CTR × 57,469 impressions = 4,605 views
-  — Arkansas/Tavaris: 4.76% CTR × 116,494 impressions = 10,007 views
-
-  The CTR on the Teambuilder videos (9-11%) is genuinely excellent. YouTube
-  just isn't showing those thumbnails to many people — likely because the
-  videos are older and from a smaller-audience period of the channel.
-
-  Interpretation: Focus thumbnails and titles on maintaining CTR above 4.5%
-  at scale. A 4.76% CTR on 116k impressions is more valuable than a 10%
-  CTR on 400 impressions.
-
-PATTERN 4: Shorts are getting quiet traction through search/hashtags, not
-the Browse feed — a separate traffic source worth maintaining.
-
-  Data: Deacon Jones (72 views), Willie Lanier (42 views), Rayfield Wright
-  (13 views) all have 0 impressions. These views come entirely from
-  search or channel browse — YouTube isn't pushing them via Browse/Home feed.
-
-  Interpretation: The Shorts aren't competing with long-form content for
-  algorithm distribution. They're building search presence for HBCU history
-  figures. Keep publishing them at low frequency (2-3/month) as a brand-
-  awareness play without sacrificing long-form output.
+#1 MOST DISTRIBUTED EVER — From LSU to Southern! What Happened?
+  Published: September 7, 2025
+  Views: 18,850 | Impressions: 224,856 — most YouTube has ever pushed a JOC video
+  CTR: 4.39% | Avg View Duration: 1:45 | Subscribers: 27
+  Despite the lowest avg view duration in the "What Happened?" series, the
+  sheer volume of impressions made this the #2 lifetime video.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-WHAT THE DATA CONTRADICTS
+CONFIRMED PATTERNS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-HYPOTHESIS (NOT YET CONFIRMED): "Source school name recognition drives
-'What Happened?' performance more than the format itself."
+PATTERN 1: Gaming content is the channel's primary subscriber engine.
+This is not close.
 
-DATA: The only valid comparison in this window is Arkansas/Tavaris (10,007
-views, 4.76% CTR) vs. Ian Wheeler's ACL/NFL framing (56 views, 1.65% CTR).
-The Oregon, LSU, and Savannah State "What Happened?" videos can't be used —
-they're old, and we're only seeing 28-day tail traffic, not launch performance.
+  Top 8 subscriber-generating videos are ALL gaming content:
+    Teambuilder Pt.1:      187 subs
+    HBCU's In EA CF:       130 subs
+    HBCUs In CF26:          87 subs
+    Teambuilder Pt.2:       68 subs
+    CF27:                   45 subs
+    CF25 Dynasty Extras:    44 subs
+    CF25 Gameplay:          39 subs
+    Team Builder SAVED CF26: 29 subs
+  TOTAL gaming subs: 685 out of 1,059 lifetime (65%)
 
-This hypothesis is plausible and worth guiding content decisions, but needs
-1-2 more "What Happened?" launch cycles (Erick Hunter, Andrew Body) to confirm.
-If those videos also perform well with recognizable source school names, the
-pattern is real. If they don't, we need to look elsewhere for the variable.
+  The "What Happened?" series drives the next-largest block (92 subs
+  combined, led by Arkansas at 50). Gaming builds the loyal base.
 
-ASSUMPTION OVERTURNED: "The 'He Tore His ACL' story framing is strong because
-it follows a proven emotional hook format."
+  Scout/Script Writer instruction: Gaming content is non-negotiable.
+  At least one video per EA College Football major release cycle. The
+  HBCU-specific gaming angle (Teambuilder, HBCU representation in-game)
+  consistently outperforms generic CF tutorials.
 
-REALITY: "He Tore His ACL and Got Cut by the NFL. Then This Happened." (Ian
-Wheeler, Jul 2 '26) has a 1.65% CTR — the lowest of any video with significant
-impressions (2,177). The generic NFL injury framing isn't resonating. The HBCU
-angle should be front-loaded in the title, not buried after the emotional hook.
-Compare to Arkansas/Tavaris Jackson where the HBCU school is in the title.
+PATTERN 2: Gaming content also dominates CTR at scale.
+
+  CTR leaders with meaningful impression volume (>20k impressions):
+    HBCUs In College Football 26?:     11.28% CTR (60,600 impr)
+    HBCU Teambuilder Pt.2:              9.95% CTR (53,466 impr)
+    Team Builder Just SAVED CF26:       9.15% CTR (82,595 impr)
+    HBCU Teambuilder Pt.1:              8.41% CTR (183,929 impr)
+    CF25 Dynasty Extras:                7.61% CTR (105,111 impr)
+    Oregon to Delaware St. (W.H.?):     7.51% CTR (43,240 impr)
+
+  The HBCU-gaming niche has exceptionally high CTR because YouTube is
+  serving it to exactly the right audience. Viewers searching for HBCU
+  gaming content click at 8-11% rates. This is elite.
+
+PATTERN 3: The "What Happened?" series works — but impressions drive
+view counts more than source school name recognition.
+
+  All four "What Happened?" videos performed above the channel average,
+  but at very different scales:
+
+    LSU to Southern:         18,850 views | 224,856 impressions | 4.39% CTR
+    Arkansas to Alabama St.: 10,007 views | 116,494 impressions | 4.76% CTR
+    Oregon to Delaware St.:   4,487 views |  43,240 impressions | 7.51% CTR
+    Power 4 to Savannah St.:    941 views |  17,049 impressions | 4.24% CTR
+
+  Oregon actually had the HIGHEST CTR (7.51%) of any "What Happened?"
+  video — but YouTube only served it 43k impressions vs 224k for LSU.
+  If Oregon had gotten the same impressions as LSU, it would have been
+  the top-performing video in the series.
+
+  The view gap between videos is largely an impressions gap, not a CTR
+  gap. What drives YouTube to give more impressions is still unclear from
+  this data — could be timing, publishing cadence, watch time signals from
+  early viewers, or topic search volume. More data needed.
+
+  EXCEPTION: "Power 4 to Savannah State" (941 views, 4.24% CTR) clearly
+  underperformed. The most likely cause: the title doesn't name the source
+  school. Every other "What Happened?" title names both schools specifically.
+  "Power 4" is vague and doesn't give casual viewers a recognizable hook.
+  Always name the specific school in the title.
+
+PATTERN 4: Avg view duration is stronger in the "What Happened?" series
+than raw numbers suggest — they're shorter videos with solid retention.
+
+  Retention rates (avg view duration / video length):
+    Power 4 to Savannah State:  40% retention (1:28 on 3:41 video)
+    Oregon to Delaware St.:     39% retention (2:04 on 5:22 video)
+    LSU to Southern:            36% retention (1:45 on 4:50 video)
+    Arkansas to Alabama State:  28% retention (3:03 on 10:50 video)
+
+  The "What Happened?" videos retain 36-40% of viewers — which is
+  healthy for YouTube. Arkansas looks lower (28%) but it's on a much
+  longer video. The format is holding attention well.
+
+PATTERN 5: Shorts are a zero-impression traffic source — quietly useful.
+
+  Deacon Jones, Willie Lanier, and Rayfield Wright Shorts all have
+  0 impressions, meaning YouTube is not distributing them via Browse or
+  Home feed at all. Yet they still accumulate views through direct channel
+  browse, search, and hashtags. They don't compete with long-form for
+  algorithm slots. Keep publishing 2-3 per month as a low-effort brand play.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SCOUT PRIORITY ORDER (updated from data)
+WHAT DIDN'T WORK
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Priority 1 — "What Happened?" stories where the subject came from a TOP-25
-or Power 4 brand-name program. The bigger the name of the source school,
-the more YouTube search pull the video gets. SEC > ACC > Big Ten > Big 12
-for name recognition.
+1. IAN WHEELER — "He Tore His ACL and Got Cut by the NFL. Then This Happened."
+   Published July 2, 2026 — 56 views, 1.65% CTR on 2,177 impressions.
+   YouTube served this to 2,177 people and barely 2% clicked. That's a
+   title/thumbnail problem. The HBCU connection is buried — the video reads
+   like an NFL injury story, not an HBCU story. YouTube served it to sports
+   fans who didn't see the HBCU angle and moved on.
+   Consider retitling: "From the NFL to Delaware State! What Happened?"
+   puts it in the proven format with recognizable framing.
 
-Priority 2 — EA College Football / Gaming content tied to a new release
-or major gaming news. CF27 (5.59% CTR, 4,605 views) proves this lane is
-productive and builds a returning audience.
+2. NON-HBCU GAMING CONTENT — The generic CF25 tutorials (Coaching,
+   Recruiting, Sights & Sounds) get views but don't convert to subscribers
+   as efficiently as HBCU-specific gaming content. CF25 Coaching got 2,912
+   views but only 12 subs (0.4% sub rate). Compare to Teambuilder Pt.1:
+   21,036 views, 187 subs (0.9% sub rate). The HBCU angle doubles the
+   subscriber conversion rate on gaming content.
 
-Priority 3 — Classic-era HBCU history stories with a famous name in the
-title (Jerry Rice, Doug Williams, Deacon Jones). The famous name provides
-search traffic from outside the HBCU community.
+3. THE SOLID CIRCLE PODCAST — 11 episodes, 315 total views, 0 subscribers
+   net gained. The episodes that exist have good watch time (some over 15
+   minutes avg) but essentially no distribution — most got <50 views. This
+   format has not found an audience on YouTube. Not worth continued investment
+   unless the strategy changes significantly.
 
-Priority 4 — Current advocacy/news stories (undrafted prospects, NIL, etc.)
-These haven't cracked meaningful views yet but are important for channel
-identity. Keep them short (under 8 minutes). Do NOT use generic NFL injury
-framing — lead with the HBCU school and player name in the title.
+4. VAGUE TITLES — Any video without a specific name or school in the title
+   underperforms. "From the Power 4 to Savannah State" is the clearest
+   example (941 views vs 4,487-18,850 for named-school versions). Be
+   specific: name the player, name the school.
 
-Priority 5 — Shorts (15-60 seconds) on legendary HBCU figures. Low effort,
-builds search presence, doesn't interfere with long-form algorithm.
 
-DE-PRIORITIZED until title/thumbnail strategy improves:
-— Stories where the source school is not a widely recognized brand name
-— Standalone gaming news (EA site shutdowns, roster updates) without a
-  specific HBCU angle — these underperform even with the gaming audience
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SCOUT PRIORITY ORDER (based on lifetime data)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Priority 1 — EA College Football / Gaming content with an HBCU angle.
+  This is the channel's #1 subscriber driver. Teambuilder content,
+  HBCU representation in-game, HBCU rosters, HBCU gaming news.
+  CTR on this content runs 8-11% at scale — elite performance.
+  Publish with every major CF/Madden release. Don't skip this lane.
+
+Priority 2 — "What Happened?" series with both school names in the title.
+  This is the best non-gaming format the channel has. 34,285 lifetime
+  views across only 4 videos. Name both schools specifically. Any
+  player transfer from a recognizable program to an HBCU qualifies —
+  data so far shows the format works regardless of school tier, as long
+  as both names are in the title (drop "Power 4" as a placeholder).
+
+Priority 3 — Classic-era HBCU history with a famous name in the title.
+  The "Ashton Jeanty of HBCU Football?" (1,646 views, 5.22% CTR) and
+  the backlog stories (Jerry Rice/MVSU, Doug Williams/Grambling, Deacon
+  Jones, Willie Lanier) work because the famous name creates search pull.
+  The name needs to be in the title or the video won't be found.
+
+Priority 4 — Current HBCU news/advocacy.
+  Low view counts currently but important for channel identity and search
+  positioning for timely topics. Keep these under 8 minutes.
+
+Priority 5 — Shorts on legendary HBCU figures.
+  Zero-impression organic traffic. Low effort. Worth 2-3/month.
+
+DO NOT CONTINUE:
+  — The Solid Circle Podcast format on YouTube (0 subs lifetime)
+  — Gaming tutorials without an HBCU angle (half the sub rate)
+  — Titles that use "Power 4" without naming the school
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SCRIPT WRITER NOTES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-TITLE FORMULA that is working at scale:
-  "From [Big-Name School] to [HBCU]! What Happened?"
+TITLE FORMULAS THAT WORK AT SCALE:
 
-  This format generates 4.76% CTR at 116k impressions — strong enough for
-  YouTube to keep distributing. Keep both school names in the title.
+  Gaming: "HBCUs in College Football [Year]? | [Specific Question]"
+    → 11.28% CTR (HBCUs In CF26), 9.15% CTR (Team Builder SAVED CF26)
+    The year in the title makes it feel current. The question format
+    keeps it searchable.
 
-TITLE FORMAT to avoid:
-  Generic emotional hooks without an HBCU school name ("He Tore His ACL and
-  Got Cut by the NFL. Then This Happened." = 1.65% CTR). The HBCU name
-  should appear in the title, not just in the thumbnail or description.
+  "What Happened?": "From [Specific School] to [Specific HBCU]! What Happened?"
+    → Proven across 3 of 4 videos. Both school names required.
+    The "!" before "What Happened?" signals a story with a twist.
 
-HOOK STYLE for "What Happened?" videos:
-  The Arkansas/Tavaris Jackson video holds viewers to 3:03 average on a 10:50
-  video (28% retention). Open with the question immediately — don't explain
-  what the video will cover, raise the mystery. Viewers who click "What
-  Happened?" already bought in; reward them by getting to the story fast.
+TITLE FORMAT THAT IS FAILING:
+  Generic emotional/NFL hook without HBCU framing = 1.65% CTR (Ian Wheeler).
+  Whatever the story quality, the title has to signal the HBCU angle
+  before the viewer clicks — not after.
 
-OPTIMAL VIDEO LENGTH based on data:
-  — "What Happened?" format: 8-12 minutes (650-750 seconds) performs best
-  — Gaming content: 10-13 minutes is fine (CF27 at 756 sec, 5.59% CTR)
-  — Avoid videos under 5 minutes in the long-form format — they don't have
-    enough watch time to trigger meaningful algorithm distribution
+VIDEO LENGTH:
+  — "What Happened?": 5-11 minutes is fine (retention holds 28-40% across
+    all lengths in this format)
+  — Gaming: 10-15 minutes works well (CF25 Gameplay Deep Dive at 6:22 avg
+    duration shows viewers will stay for long gaming content)
+  — Aim for 8+ minutes on any long-form video to maximize ad revenue
+    potential as the channel grows
 
-END SCREENS: The Arkansas video drove 14 end-screen clicks (the most of any
-video). Use end screens consistently and point to other "What Happened?"
-videos — viewers who finished one story are most likely to click another.
+HOOKS:
+  The "What Happened?" format has proven retention (36-40%). The hook that's
+  working: open on the mystery immediately. Don't set up context — raise the
+  question. Viewers clicked because they want the answer; get there fast.
+
+THUMBNAILS:
+  The gaming thumbnails are outperforming story thumbnails in CTR (8-11%
+  vs 4-5%). The gaming thumbnails likely feature bold text, game UI
+  elements, and clear HBCU branding. Apply those visual principles to
+  story thumbnails.
+
+END SCREENS:
+  The Arkansas/Tavaris video drove 14 end-screen clicks — most of any video.
+  Consistently link to other "What Happened?" videos at the end. A viewer
+  who finished one story is the most likely person to watch another.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 WATCH FOR IN NEXT REVIEW
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-— Ian Wheeler (ACL/NFL video, Jul 2 '26): Will CTR improve if the video
-  gets more exposure, or does the title framing permanently limit it?
-— Erick Hunter and Andrew Body videos: Do they follow the Arkansas/Tavaris
-  pattern if their source school is recognizable?
-— Whether the gaming audience from CF27 converts to returning viewers for
-  the next non-gaming upload (watch the Returning Viewers % on Erick Hunter)
-— Shorts: Are views trending up month-over-month? If so, publish 3-4/month.
+— Arkansas/Tavaris Jackson (Jun 20 '26): At 10k views in 23 days, where
+  does it plateau? Could challenge LSU to Southern's 18,850 lifetime high.
+— Erick Hunter video (Jul 9 '26): First "What Happened?" data point after
+  this review. Does naming both schools and using the proven format hold?
+— Ian Wheeler: Does the 1.65% CTR improve with more impressions, or does
+  this video stay suppressed? If CTR doesn't improve past 2% by next month,
+  consider a retitle.
+— CF28/future EA content: When is the next major EA release? That window
+  is historically the channel's peak traffic period.
+— Whether the Podcast format is worth continuing in any form on YouTube.
+  Current data says no, but a format change could change that.
 
