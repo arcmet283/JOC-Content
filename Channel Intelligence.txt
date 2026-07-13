@@ -35,32 +35,63 @@ retention should become a priority once the sub count grows.
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-EVERY VIDEO REVIEWED — KEY STATS
+DATA LIMITATION — READ FIRST
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+IMPORTANT: This export covers a 28-day window (June 15 – July 12, 2026).
+Most videos in the catalog were published months or years before this window.
+Their view counts here represent tail/residual traffic only — NOT launch
+performance. Comparing a 2024 video's 28-day leftover traffic to a June 2026
+video's launch spike is not a valid comparison.
+
+What this data CAN tell us:
+  ✓ Head-to-head performance of the 3 videos that LAUNCHED during this window
+    (Arkansas/Tavaris Jackson, CF27, Ian Wheeler — all published Jun-Jul 2026)
+  ✓ CTR on any video — thumbnail/title quality doesn't decay with age
+  ✓ Returning vs new viewer ratios — reflects audience loyalty by format
+  ✓ Channel-wide health metrics (total views, subs, avg view duration)
+  ✓ Shorts traffic behavior
+
+What this data CANNOT tell us:
+  ✗ How the Oregon, LSU, or Savannah State "What Happened?" videos performed
+    at launch — they had their spike 9-10 months before this window
+  ✗ Whether any format "works" or "doesn't work" based on old videos'
+    residual traffic in a 28-day snapshot
+
+To properly compare "What Happened?" videos across the backlog, we need
+YouTube Studio analytics pulled for each video's first 28 days individually,
+or a channel lifetime export. Flag this for the next data collection.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EVERY VIDEO IN THE WINDOW — KEY STATS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+* = video launched during this 28-day window (valid for head-to-head comparison)
+  = all others are older videos showing tail/residual traffic only
 
 VIDEO                                           PUB DATE    VIEWS   CTR     AVG DUR   SUBS  IMPRESSIONS
 ----------------------------------------------  ----------  ------  ------  --------  ----  -----------
-From Arkansas to Alabama State! What Happened?  Jun 20 '26  10,007   4.76%   3:03      50   116,494
-HBCUs in College Football 27 | Team Builder?    Jun 25 '26   4,605   5.59%   2:24      45    57,469
-HBCU Teambuilder Teams (EA College Football Pt1) Oct 6 '24     110   9.08%   2:52       1       804
-Deacon Jones [Short]                            Jun 24 '26      72     n/a   0:11       0         0
-HBCU Teambuilder Teams (EA College Football Pt2) Nov 9 '24      70  10.98%   2:07       1       410
-HBCUs In College Football 26?                   Jun 8 '25       67   9.42%   1:27       0       499
-He Tore His ACL and Got Cut by the NFL...       Jul 2 '26       56   1.65%   2:19       1     2,177
-Willie Lanier [Short]                           Jun 30 '26      42     n/a   0:11       0         0
-From Oregon To Delaware St.! What Happened?     Aug 27 '25      31   4.50%   2:21       0       422
-From LSU to Southern! What Happened?            Sep 7 '25       30   3.63%   2:55       0       496
-From the Power 4 to Savannah State! What Happened? Sep 18 '25  26   3.47%   2:32       0       606
-EA Shuts Down TeamBuilder Site!                 Jul 3 '25       19   2.00%   0:50       0       100
-The HBCU to ACC Pipeline?                       Jan 15 '26      18   2.39%   7:09       0       335
-Team Builder Just SAVED College Football 26     Jun 27 '25      16   2.17%   1:26       0       184
-The Ashton Jeanty of HBCU Football?             Dec 16 '24      11   6.67%   5:23       0       105
-John Madden's Unknown Love for HBCUs            Aug 17 '25       9   5.63%   2:19       0       142
-These 4 HBCU Stars Are On The Move!             Jun 2 '25        7   0.70%   3:34       0       287
-How These HBCU Athletes Became WWE Superstars   Apr 24 '25       6   1.36%   2:38       0       221
-The Most Tampered With Freshman in CBB?         Feb 17 '25       8   2.82%   2:49       0       177
-Rayfield Wright [Short]                         Jul 12 '26      13     n/a   0:13       0         0
-(All other videos: <10 views each this period)
+*From Arkansas to Alabama State! What Happened? Jun 20 '26  10,007   4.76%   3:03      50   116,494
+*HBCUs in College Football 27 | Team Builder?   Jun 25 '26   4,605   5.59%   2:24      45    57,469
+ HBCU Teambuilder Teams (EA CF Pt1)             Oct 6 '24     110   9.08%   2:52       1       804
+*Deacon Jones [Short]                           Jun 24 '26      72     n/a   0:11       0         0
+ HBCU Teambuilder Teams (EA CF Pt2)             Nov 9 '24      70  10.98%   2:07       1       410
+ HBCUs In College Football 26?                  Jun 8 '25       67   9.42%   1:27       0       499
+*He Tore His ACL and Got Cut by the NFL...      Jul 2 '26       56   1.65%   2:19       1     2,177
+*Willie Lanier [Short]                          Jun 30 '26      42     n/a   0:11       0         0
+ From Oregon To Delaware St.! What Happened?    Aug 27 '25      31   4.50%   2:21       0       422
+ From LSU to Southern! What Happened?           Sep 7 '25       30   3.63%   2:55       0       496
+ From the Power 4 to Savannah State! W.H.?      Sep 18 '25      26   3.47%   2:32       0       606
+ EA Shuts Down TeamBuilder Site!                Jul 3 '25       19   2.00%   0:50       0       100
+ The HBCU to ACC Pipeline?                      Jan 15 '26      18   2.39%   7:09       0       335
+ Team Builder Just SAVED College Football 26    Jun 27 '25      16   2.17%   1:26       0       184
+ The Ashton Jeanty of HBCU Football?            Dec 16 '24      11   6.67%   5:23       0       105
+ John Madden's Unknown Love for HBCUs           Aug 17 '25       9   5.63%   2:19       0       142
+ These 4 HBCU Stars Are On The Move!            Jun 2 '25        7   0.70%   3:34       0       287
+ How These HBCU Athletes Became WWE Superstars  Apr 24 '25       6   1.36%   2:38       0       221
+ The Most Tampered With Freshman in CBB?        Feb 17 '25       8   2.82%   2:49       0       177
+*Rayfield Wright [Short]                        Jul 12 '26      13     n/a   0:13       0         0
+ (All other videos: <10 views each this period)
 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -89,22 +120,30 @@ TOP PERFORMER
 CONFIRMED PATTERNS (backed by real data)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-PATTERN 1: "What Happened?" is the channel's strongest content format — but
-the name recognition of the source school matters enormously.
+PATTERN 1: "What Happened?" is the channel's strongest confirmed format —
+with one valid head-to-head data point so far.
 
-  Data: The Arkansas → Alabama State video has 10,007 views.
-  The Oregon → Delaware St., LSU → Southern, and Power 4 → Savannah State
-  videos have 31, 30, and 26 views respectively.
+  Valid comparison (both launched in this window):
+  — "From Arkansas to Alabama State! What Happened?" → 10,007 views, 4.76% CTR
+  — "He Tore His ACL and Got Cut by the NFL. Then This Happened." → 56 views, 1.65% CTR
 
-  Interpretation: "What Happened?" works best when the source school is a
-  recognizable name that non-HBCU fans will click on. Arkansas, LSU, Oregon
-  are brands that get YouTube search traffic. Delaware St. and Savannah State
-  don't pull search clicks from casual football fans.
+  The Arkansas/Tavaris video outperformed Ian Wheeler's video by ~180x in views
+  and nearly 3x in CTR. Both are new-release videos so this IS a fair comparison.
 
-  Scout instruction: When pitching "What Happened?" stories, prioritize subjects
-  who transferred FROM Power 4 / high-name-recognition programs. The HBCU
-  destination is the hook for the community; the Power 4 source school is the
-  hook for the algorithm.
+  NOTE: The Oregon, LSU, and Savannah State "What Happened?" videos showing
+  31/30/26 views in this window are OLD videos (Aug-Sep 2025) that had their
+  launch spike long before this data window. We cannot use their tail traffic
+  to assess how the "What Happened?" format performs at launch for those subjects.
+  That comparison is invalid until we have their first-28-days data.
+
+  What we CAN say from the one valid comparison: The "What Happened?" framing
+  with a recognizable school name in the title (Arkansas) vastly outperformed
+  a generic NFL emotional hook (Ian Wheeler) in both CTR and YouTube
+  distribution. Source school name recognition is a hypothesis worth testing,
+  but needs more launch-window data to confirm.
+
+  Scout instruction: Continue tracking "What Happened?" videos at launch.
+  Erick Hunter and Andrew Body will add two more valid data points next month.
 
 PATTERN 2: EA College Football content is the reliable #2 lane — and it
 builds a MORE LOYAL audience than the story content.
@@ -154,14 +193,18 @@ the Browse feed — a separate traffic source worth maintaining.
 WHAT THE DATA CONTRADICTS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-ASSUMPTION OVERTURNED: "Any Power 4-to-HBCU transfer story works in the
-'What Happened?' format."
+HYPOTHESIS (NOT YET CONFIRMED): "Source school name recognition drives
+'What Happened?' performance more than the format itself."
 
-REALITY: Three of the four "What Happened?" videos (Oregon/Delaware St.,
-LSU/Southern, Power 4/Savannah State) have under 32 views. The format alone
-doesn't drive performance — the source school's name recognition does. Oregon,
-LSU, and "Power 4" (unnamed) didn't generate search pull from outside the
-HBCU community. Arkansas did.
+DATA: The only valid comparison in this window is Arkansas/Tavaris (10,007
+views, 4.76% CTR) vs. Ian Wheeler's ACL/NFL framing (56 views, 1.65% CTR).
+The Oregon, LSU, and Savannah State "What Happened?" videos can't be used —
+they're old, and we're only seeing 28-day tail traffic, not launch performance.
+
+This hypothesis is plausible and worth guiding content decisions, but needs
+1-2 more "What Happened?" launch cycles (Erick Hunter, Andrew Body) to confirm.
+If those videos also perform well with recognizable source school names, the
+pattern is real. If they don't, we need to look elsewhere for the variable.
 
 ASSUMPTION OVERTURNED: "The 'He Tore His ACL' story framing is strong because
 it follows a proven emotional hook format."
