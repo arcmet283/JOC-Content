@@ -1,0 +1,95 @@
+==========================================================
+THE JOC — YOUTUBE SEO PACKAGE
+Player: Andrew Body | Alabama State University
+Story Type: Transfer Portal / Loyalty-Advocacy (HBCU over Power 4)
+Generated: 2026-08-12
+==========================================================
+
+== TITLE OPTIONS ==
+
+[RECOMMENDED — Use This One]
+1. "He Turned Down Notre Dame, Penn State & Florida | Andrew Body"
+   Character count: 58
+   WHY: Leads with the shock value from the script's biggest moment — real blue-blood program names in the title pull search traffic from fans of those schools who've never heard of Alabama State or The JOC. The "turned down" framing flips the usual transfer-portal story (leaving an HBCU) on its head, which stands out in the feed.
+
+2. "36 Power 4 Schools Called. He Chose His HBCU. | Andrew Body"
+   Character count: 58
+   WHY: The specific number "36" functions like the "31 NFL Teams" hook from the Erick Hunter title — a concrete stat creates curiosity about how that math ends in an HBCU decision. Strong for viewers who scan numbers in titles before committing to a click.
+
+3. "The Next Tarvaris Jackson? Alabama State's Draft Hope | Andrew Body"
+   Character count: 60
+   WHY: Ties directly to the built-in comparison in the script (last Alabama State QB drafted, 2006, Vikings). Pulls in viewers who know Tarvaris Jackson from his NFL career but not his Alabama State roots — same mechanic as your comparison-title analytics pattern.
+
+
+== DESCRIPTION ==
+
+Notre Dame called. Penn State called. Florida, UCF, and Vanderbilt called. Thirty-six schools in total reached out to Andrew Body the moment he hit the transfer portal. And he turned every single one of them down — to go back to Alabama State.
+
+Body arrived at Texas Southern as a Texas high school legend — over 13,000 career passing yards, 91 touchdowns, third all-time in Texas high school passing history. He set TSU's single-season total offense record as a true freshman before injuries and a coaching change sent him looking for a new home. He landed at Alabama State, and after a shoulder injury cut his debut season short, he came back in 2025 and put together one of the most efficient seasons in HBCU football: over 70% completion, 1,770 passing yards, 20 touchdowns, and just 1 interception in only eight games, plus 518 rushing yards and four more scores on the ground. SWAC Offensive Player of the Year. National HBCU Player of the Year. And Alabama State's first 10-win season since 2004 — the same year Tarvaris Jackson led the Hornets to that mark before becoming the last Alabama State quarterback ever drafted.
+
+Then the portal opened, the Power 4 offers rolled in, and Andrew Body said no to all of them.
+
+Chapters:
+0:00 — Intro: The First Real Alabama State Draft Threat Since Tarvaris Jackson
+0:20 — Texas High School Legend: 13,000 Yards, 91 TDs
+0:50 — Texas Southern: Freshman Record-Breaker
+1:15 — Injuries, a Coaching Change, and a Transfer
+1:35 — The Alabama State Debut — Then Another Injury
+1:55 — 2025: 20 Touchdowns, 1 Interception, Historic Efficiency
+2:35 — The Tarvaris Jackson Connection: 2004 and 2006
+3:10 — The Portal Opens: Notre Dame, Penn State, Florida Come Calling
+3:40 — Why He Said No
+4:15 — What This Means for the 2026 Draft Class
+4:45 — Comment Debate + Outro
+
+Subscribe to The JOC for HBCU sports stories that never get told anywhere else.
+
+
+== TAGS (17 tags) ==
+
+Andrew Body
+Alabama State Football
+Alabama State University
+HBCU Football
+HBCU Sports
+HBCU Football History
+The JOC
+Journey of Champions
+SWAC Football
+Tarvaris Jackson
+HBCU NFL Draft
+Transfer Portal
+Texas Southern Football
+SWAC Offensive Player of the Year
+HBCU Quarterback
+College Football Transfer Portal
+Power 4 Offers HBCU
+
+
+== THUMBNAIL CONCEPT ==
+
+Base image: Andrew Body in the black suit, sunglasses, spinning the football — clean, confident, in-control pose. Keep him sharp and vivid; this is the emotional anchor of the thumbnail.
+
+Background: Alabama State colors (black + old gold), stadium-light glow behind the subject.
+
+Right-side graphic: Notre Dame, Penn State, Florida, UCF, and Vanderbilt logos/wordmarks stacked vertically, desaturated/grayed out, each with a red strikethrough — visually shows he turned all of them down.
+
+Text overlay: Top line — "TURNED DOWN NOTRE DAME. PENN STATE. FLORIDA." Bottom line, smaller, in gold — "HE CAME BACK TO HIS HBCU."
+
+(Full Manus image-generation prompt for this concept already provided separately for the actual thumbnail render.)
+
+MOBILE TEST BEFORE FINALIZING: Pull up YouTube on your phone, search any transfer portal or HBCU football video, and hold your thumbnail next to the suggested results — confirm the school logos and text are still readable at sidebar size before finalizing.
+
+
+== PLAYLIST ASSIGNMENT ==
+
+Assign this video to: The JOC - What Happened Series
+
+How to do it in YouTube Studio:
+1. After uploading the video, go to YouTube Studio (studio.youtube.com).
+2. Click on the video in your video list.
+3. Click Edit Video.
+4. On the left side menu, click Playlists.
+5. Check the box next to "The JOC - What Happened Series."
+6. If that playlist does not exist yet, click Create New Playlist and name it exactly: The JOC - What Happened Series
+7. Click Save.

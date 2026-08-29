@@ -1,0 +1,99 @@
+==========================================================
+THE JOC — YOUTUBE SEO PACKAGE
+Video: HBCU Teambuilder — Stadium Upgrade (Part 1: Heavyweights)
+Game: College Football 27
+Generated: 2026-08-22
+==========================================================
+
+== TITLE OPTIONS ==
+
+[RECOMMENDED — Use This One]
+1. "HBCU Teambuilder Teams To Download In College Football 27 (Stadiums Got an Upgrade!)"
+   Character count: 84 (trim parenthetical for mobile if needed — core title alone is 63 chars)
+   WHY: Your two highest-CTR videos on the entire channel (8.41% and 9.95%) used almost this
+   exact phrase — "HBCU Teambuilder Teams To Download In EA College Football." This keeps that
+   proven search term intact, swaps in the current game, and the parenthetical signals the real
+   differentiator (new stadiums) to anyone who already watched Pt.1/Pt.2 and might assume this
+   is a repeat.
+
+2. "HBCU Teambuilder Just Got a MASSIVE Upgrade | College Football 27"
+   Character count: 65
+   WHY: Leads with the upgrade hook instead of the download-list framing. Stronger emotional
+   pull, but risks losing some of the "Teambuilder" keyword search equity by not leading with it.
+
+3. "The Stadiums Are Finally Real | HBCU Teambuilder (College Football 27)"
+   Character count: 72
+   WHY: Mirrors your gaming-category title formula ("HBCUs in College Football 26? | Is Team
+   Builder Finally Enough?" — 11.28% CTR) with a question/statement hook plus year, but leans
+   more editorial than search-driven.
+
+
+== DESCRIPTION ==
+
+Two years ago I showed you the best HBCU Teambuilder teams to download in College Football 25. That video alone brought in more subscribers than almost anything else on this channel. But back then, the stadiums were generic — no atmosphere, no real HBCU feel.
+
+College Football 27 changes that. Stadium Builder is now built directly into Teambuilder — real crowd design, jumbotrons, custom soundscapes, stadiums that actually grow with your program. So I went back to the community and found the creators rebuilding the biggest HBCU programs from the ground up with these new tools.
+
+This is Part 1 — the heavyweights. Eleven programs with the history, the names, and now, finally, the stadiums to match.
+
+Teams featured in this video:
+
+Grambling State — Creator: Two7_Keem
+Jackson State — Creator: MarLuthaKang
+Southern University — Creator: Two7_Keem
+Florida A&M — Creator: Two7_Keem
+Howard University — Creator: ConsciousBuddah
+Alabama State — Creator: Two7_Keem
+Alcorn State — Creator: Two7_Keem
+Morgan State — Creator: Baldhed72
+NC A&T — Creator: Yahweezy
+Delaware State — Creator: Baldhed72
+South Carolina State — Creator: Baldhed72
+
+NOTE: This list is not clickable-chapter formatted (no timestamps), so it won't show as
+YouTube chapter markers in the progress bar. If you want real chapters later, this same
+team order just needs a timestamp added in front of each line once the final edit is locked.
+
+Subscribe to The JOC for HBCU sports stories and HBCU gaming coverage that never gets told anywhere else.
+
+
+== TAGS (20 tags) ==
+
+HBCU Teambuilder, HBCU Football, HBCU Sports, College Football 27, College Football 27 Team Builder, The JOC, Journey of Champions, Grambling State Football, Jackson State Football, Southern University Football, FAMU Football, Howard Football, Alabama State Football, Alcorn State Football, Morgan State Football, NC A&T Football, Delaware State Football, SC State Football, SWAC Football, MEAC Football
+
+
+== THUMBNAIL CONCEPT ==
+
+Three-panel layout, each player on a separate stadium-background panel (not one blended
+composite — this avoided the lighting/edge-blend problems from earlier compositing attempts).
+
+Panel 1: Bama State (black/gold, #11)
+Panel 2: Jackson State (navy, #4)
+Panel 3: Bulldogs (red/white, #8) — needs a stadium-crowd background to match the other two
+panels rather than the current plain/indoor background.
+
+Text: Bold block-letter "HBCU" + green "X" + official EA Sports College Football 27 logo.
+NOTE: Consider working "TEAMBUILDER" into the text treatment somewhere — it's the proven
+search term behind your two best-CTR videos, and this version's text currently drops it.
+
+Style reference: same energetic, high-contrast, mobile-readable treatment as your Pt.1/Pt.2
+thumbnails (8.41% and 9.95% CTR — best on the channel).
+
+
+== PLAYLIST ASSIGNMENT ==
+
+No existing gaming-specific playlist was found in your upload history — this would start one.
+
+Recommended: Create a playlist named "The JOC - HBCU Gaming" and assign this video plus your
+past Teambuilder Pt.1/Pt.2, CF25/26/27 preview videos, and future gaming content to it, mirroring
+the structure of your "The JOC - What Happened Series" playlist.
+
+How to do it in YouTube Studio:
+1. After uploading the video, go to YouTube Studio (studio.youtube.com).
+2. Click on the video in your video list.
+3. Click Edit Video.
+4. On the left side menu, click Playlists.
+5. Click Create New Playlist and name it exactly: The JOC - HBCU Gaming
+6. Click Save.
+7. Go back and add your existing gaming videos (Teambuilder Pt.1/Pt.2, CF25/26/27 previews) to
+   the same playlist so it has depth on day one instead of starting empty.
