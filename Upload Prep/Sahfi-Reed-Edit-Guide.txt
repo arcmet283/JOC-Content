@@ -1,0 +1,250 @@
+==========================================================
+THE JOC — PREMIERE PRO EDITING GUIDE
+Player: Sahfi Reed | Lincoln University (PA)
+Story Type: Transfer / Two-Sport Underdog
+Generated: 2026-09-29
+IMPORTANT: This guide is written for a beginner. Every step names the exact Premiere Pro panel, tool, menu, or keyboard shortcut. Do not skip any step.
+==========================================================
+
+
+== SECTION A: PROJECT SETUP ==
+
+STEP 1 — Create a new project:
+Open Premiere Pro. At the top menu bar, click File > New > Project.
+A window will appear asking you to name the project. Type: Sahfi Reed.
+Choose where to save it (your Videos or Desktop folder is fine).
+Click OK.
+
+STEP 2 — Create a sequence:
+At the top menu bar, click File > New > Sequence.
+Click the Settings tab at the top of that window.
+- Set Editing Mode to: Custom
+- Set Timebase to: 30.00 frames/second
+- Set Frame Size to: 1920 horizontal, 1080 vertical
+- Set Pixel Aspect Ratio to: Square Pixels (1.0)
+In the Sequence Name field, type: Main Edit.
+Click OK.
+
+STEP 3 — Import your footage:
+File > Import (or Ctrl+I). Select all your video, photo, and music files at once (click one, hold Shift, click the last one). Click Open.
+
+STEP 4 — Organize your Project panel:
+Right-click in the Project panel (bottom-left). Choose New Bin. Create four bins: Talking Head, B-Roll, Music, Photos.
+Drag each file into its correct bin.
+
+
+== SECTION B: CUTTING YOUR TALKING HEAD FOOTAGE ==
+
+STEP 1 — Load the clip into the Source Monitor:
+Open the Talking Head bin. Double-click your clip. It opens in the Source Monitor (top-left panel).
+
+STEP 2 — Find your good takes:
+Press spacebar to play. Press I to mark the In point where a section starts, press O to mark the Out point where it ends.
+
+STEP 3 — Send the clip to the Timeline:
+Press the comma key (,) to insert the marked section into the Timeline (Video Track 1 / V1).
+
+STEP 4 — Razor cuts:
+Press C for the Razor tool, click to cut. Press V to switch back to Selection.
+
+STEP 5 — Delete and close gaps:
+Razor-cut around a bad section, select it, press Delete. Right-click the gap, choose Ripple Delete to close it.
+
+WHERE TO CUT IN THIS SPECIFIC SCRIPT:
+- After "It still wasn't the wrong decision — because what happened next nobody saw coming." — this is the cold open's button line; hold half a beat before cutting to the setup.
+- After "he didn't take the easy road." — natural breath before listing the offers.
+- After "But on the track, it was a completely different story." — hard transition point; cut cleanly into the track stats section.
+- After "That's not 'fast for a receiver.' That's elite, verified, track-program speed." — let this land before continuing.
+- After "he committed to Lincoln University in Pennsylvania" — this is the pivot of the whole video; consider a brief hold on Charlie's face here.
+- After "Reed did the opposite. He had the Power Four roster spot. He gave it up." — the thesis line; don't rush past it.
+
+
+== SECTION C: ADDING B-ROLL AND PHOTOS ==
+
+WHAT IS B-ROLL:
+Footage or photos that play over Charlie's voice while he's not on screen, illustrating what he's describing.
+
+STEP 1 — Place b-roll on Video Track 2 (V2):
+Drag clips/photos from the B-Roll or Photos bin onto V2, directly above V1.
+
+STEP 2 — Trim b-roll clips:
+3 to 8 seconds each. Hover over a clip's edge until you see the red bracket, then drag to trim.
+
+STEP 3 — Extend photos:
+Drag the right edge of a photo clip to extend its hold time. Historical/context photos: 3-5 seconds. Stat graphics: up to 6 seconds.
+
+SPECIFIC B-ROLL AND PHOTOS TO FIND FOR THIS VIDEO:
+
+For the high school / recruitment section:
+- Martin Luther King High School (Philadelphia) — search "Martin Luther King High School Philadelphia football" and Prep Redzone's Sahfi Reed profile page for any available action photos.
+- Generic Philadelphia high school football/track footage if no specific photos are available.
+
+For the Houston section:
+- University of Houston Cougars football and track uniforms (red and white) — search "Houston Cougars track and field" and "Houston Cougars football" on Google Images and uhcougars.com.
+- 4x400 relay race footage — search YouTube "NCAA 4x400 relay 2025" for generic collegiate track footage (not required to be Houston-specific if unavailable).
+
+For the track stats section:
+- A stopwatch or track clock graphic to overlay under the 10.89 / 21.67 / 46.14 numbers.
+- Lane markers / starting blocks close-up shots (generic, royalty-free stock works fine here).
+
+For the Lincoln University section:
+- Lincoln University (PA) Lions campus and football stadium — search "Lincoln University PA Lions football" and lulions.com.
+- Lincoln Lions blue and orange uniform photos, jersey #10 if available.
+- CIAA conference branding/logo footage for context on the track program's 17 NCAA titles.
+
+For the present-day section:
+- Any available 2026 season game footage or photos of Reed at Lincoln (check lulions.com and Lincoln's athletics social media for recent posts).
+- If none exists yet, use his listed roster photo from lulions.com/sports/football/roster.
+
+
+== SECTION D: ADDING MUSIC ==
+
+RECOMMENDED MUSIC MOOD FOR THIS VIDEO:
+Unlike a systemic-injustice story, this is a determined-underdog-to-triumph arc — the music should feel motivational and building, not heavy or somber.
+
+Phase 1 (0:00 to about 1:30 — the setup and the walk-on decision):
+Restrained, curious, low-key determination. Think a single instrument (piano or guitar) with light rhythm — this is the "why would he do that" section, so hold back the full score.
+
+Phase 2 (1:30 to about 3:00 — the track stats and the Lincoln decision):
+Build steadily. By the time Charlie says the three track times (10.89, 21.67, 46.14), the music should be rising into a fuller arrangement — this is the "wait, this guy is actually elite" reveal.
+
+Phase 3 (3:00 to end — Lincoln debut, the thesis, the CTA):
+Full, motivational, triumphant swell — this should feel like a highlight-reel payoff, not a bittersweet one. This story has an unambiguously positive framing, so let the music actually feel good.
+
+WHERE TO FIND ROYALTY-FREE MUSIC:
+YouTube Audio Library, Pixabay, Artlist, or Epidemic Sound.
+Search terms: "motivational underdog instrumental," "inspiring sports build," "triumphant indie sports score."
+
+STEP 1 — Import music:
+Ctrl+I, select your music file, Open. It lands in the Music bin.
+
+STEP 2 — Place music in the Timeline:
+Drag to Audio Track 3 (A3), below Charlie's voice (A1).
+
+STEP 3 — Lower the music volume:
+Select the music clip. Open Window > Effect Controls. Under Volume > Level, type -22 and press Enter. Adjust between -18dB and -25dB based on the track — if you can clearly hear every word, it's right.
+
+STEP 4 — Fade out at the end:
+Right-click the music clip > Show Clip Keyframes > Volume > Level. Click the yellow line about 10 seconds before the end (adds a keyframe), then click at the very last frame and drag that keyframe down to the bottom.
+
+
+== SECTION E: ADDING TEXT AND GRAPHICS ==
+
+OPENING ESSENTIAL GRAPHICS:
+Window > Essential Graphics.
+
+LOWER THIRD:
+Position the playhead where Sahfi Reed is first named (around the cold open's second sentence). Browse > search "lower third" > drag a clean template onto V3, directly above that clip.
+Double-click it in the Program Monitor to edit text:
+  Line 1: SAHFI REED
+  Line 2: WR | LINCOLN UNIVERSITY (PA) | CIAA
+Font: Impact or Oswald Bold. Title case for the name, all-caps for position/school. Hold 3-4 seconds.
+
+STAT CARDS — SPECIFIC MOMENTS TO ADD GRAPHIC OVERLAYS:
+
+1. WHEN CHARLIE SAYS "10.89 in the 100 meters. 21.67 in the 200. 46.14 in the 400.":
+   - Essential Graphics > pencil icon (New Item) > Text.
+   - Type all three lines, stacked:
+     10.89 — 100M
+     21.67 — 200M
+     46.14 — 400M
+   - Font: Impact or Anton, all caps, white text, large. Add a semi-transparent dark rectangle behind it (Rectangle shape, Opacity 60%) so it reads over any background.
+   - Place on V3, timed to when Charlie says each number — consider revealing one line at a time rather than all three at once for pacing.
+
+2. WHEN CHARLIE SAYS "17 NCAA titles":
+   - Stat card: LINCOLN TRACK & FIELD — 17 NCAA TITLES
+   - This establishes why Lincoln isn't a "step down" — give it a full 3 seconds to read.
+
+3. WHEN CHARLIE SAYS "he's already posted a 21.85 in the indoor 200 meters as a Lion":
+   - Side-by-side comparison card:
+     HOUSTON: 21.67
+     LINCOLN: 21.85
+   - This visually proves he didn't lose a step by transferring down a division — a strong payoff moment, hold for 4-5 seconds.
+
+RECOMMENDED FONT: Impact, Anton, or Oswald Bold. Stats/facts: ALL CAPS. Names/schools: Title Case.
+
+
+== SECTION F: END SCREENS ==
+
+WHY END SCREENS MATTER FOR THIS CHANNEL:
+Channel data shows viewers who reach the end screen average double the channel's typical watch time. Every video needs one.
+
+STEP 1 — Build it in the Timeline:
+Last 20 seconds of the video: add a simple "WATCH THIS NEXT" text card or a dark card with a blurred thumbnail background, on V3.
+
+STEP 2 — Add the real links after uploading:
+studio.youtube.com > click the video > Editor > End Screen > Add Element > Video element (link the most recent "What Happened?" video) positioned lower-right so it doesn't cover Charlie's face > Add a second element: Subscribe Button. Save.
+
+WHAT VIDEO TO LINK:
+This is a hopeful, underdog-choice story — link to another positive/advocacy-adjacent video (e.g., a "proved doubters wrong" story) rather than a heavier systemic-injustice piece, to match the emotional tone. If none fits, link your most recent "What Happened?" video regardless of topic.
+
+
+== SECTION G: COLOR GRADING ==
+
+OPENING LUMETRI COLOR:
+Window > Lumetri Color.
+
+STEP 1 — Grade the talking head clips:
+Select a talking head clip. Basic Correction:
+  Exposure: +0.2
+  Contrast: +15
+  Highlights: -10
+  Shadows: +10
+  Whites: +5
+  Blacks: -5
+
+COLOR TREATMENT RECOMMENDATION FOR THIS VIDEO:
+This is an optimistic, triumphant story — brighter and warmer than a heavy documentary grade, not moody or desaturated.
+
+Color Wheels & Match: push Midtones slightly toward warm amber. Skip the cool-shadow push used on heavier stories — keep shadows neutral to keep the overall feel bright and hopeful.
+
+Curves: a gentle S-curve is fine, but keep it subtle — this story doesn't need heavy contrast to feel serious, it needs to feel clean and energetic.
+
+STEP 2 — Copy the grade to all talking head clips:
+Right-click the graded clip > Copy. Select all other talking head clips (Shift+click) > right-click > Paste Attributes > check Lumetri Color > OK.
+
+FOR B-ROLL/ARCHIVAL PHOTOS:
+Lumetri Color > Creative: reduce Vibrance to -10, Saturation to -5, only on older/lower-quality archival images to keep them visually consistent.
+
+
+== SECTION H: PACING NOTES FOR THIS SPECIFIC VIDEO ==
+
+FAST CUTS — Under 2 seconds between clips:
+
+1. The three track times ("10.89... 21.67... 46.14..."):
+   Rapid stat-card reveal, one number every 1-1.5 seconds. Let them stack like a highlight reel of proof.
+
+BREATHE — Hold 3-4 seconds, no cut, no music swell:
+
+1. After "he committed to Lincoln University in Pennsylvania."
+   This is the pivot of the entire story. Hold on Charlie for a beat before continuing — don't rush into the next sentence.
+
+2. After "Reed did the opposite. He had the Power Four roster spot. He gave it up."
+   This is the thesis. Let it sit before the closing lines.
+
+ENERGY BUILD:
+
+When Charlie says "he's already posted a 21.85 in the indoor 200 meters as a Lion... Sahfi Reed finally made his HBCU football debut" — this is the payoff/present-day section. Speed up the cutting here, mixing recent footage/photos rapidly to create a sense of momentum and arrival, contrasting with the slower, more deliberate pacing of the setup section.
+
+SUBSCRIBE CTA:
+When Charlie says "if somebody sent you this video and this is your first time on The J.O.C...." — slow down, hold on his face, no cutaway. Don't lose the conversion moment to a distracting cut.
+
+
+== SECTION I: EXPORT AND UPLOAD ==
+
+STEP 1 — Export:
+Ctrl+M. Format: H.264. Preset: YouTube 1080p Full HD. Check "Use Maximum Render Quality." Output name: "Sahfi Reed - The JOC" or similar. Confirm Export Video and Export Audio are checked. Click Export.
+
+STEP 2 — Upload to YouTube Studio:
+studio.youtube.com > Upload. While it processes, paste in from the SEO package: Title, Description (with chapters), Tags, and upload the custom thumbnail.
+
+STEP 3 — After upload:
+1. Add to playlist: The JOC - What Happened Series.
+2. Add end screens (Section F above).
+3. Confirm chapter timestamps render correctly in the description.
+
+
+==========================================================
+PULL THIS FILE FROM GITHUB DESKTOP TO GET STARTED
+File location in repo: Upload Prep/Sahfi-Reed-Edit-Guide.txt
+==========================================================
