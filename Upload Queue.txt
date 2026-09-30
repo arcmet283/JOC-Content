@@ -1,12 +1,17 @@
-NEXT UP: Andrew Body
+Next Up: TBD — pending Script Writer
 
-UPLOAD SCHEDULE:
-- June 20: Tavaris Jackson (live — 9,021 views)
-- June 25: CF27 (live — 3,562 views)
-- July 2: Ian Wheeler (scheduled)
-- July 9: Erick Hunter (prep done)
-- July 16: Andrew Body
-- July 23: Wilberforce Returns
+SHELVED:
+- Erick Hunter (Edit Guide + SEO complete in Upload Prep, but shelved by Charlie on 2026-08-29 — do not upload until unshelved.)
+- Wilberforce Returns (placeholder only, no prep material — not an active option.)
+
+Nothing is currently prep-complete and cleared to upload. The Script Writer routine runs Wednesdays and picks the #1 story from the latest Scout report (Scout-2026-08-29.txt — currently "Sahfi Reed, Houston to Lincoln University (PA)") to write a full script. Once that script exists, the Upload Prep agent should build the Edit Guide + SEO for it and this line should be updated to name it.
+
+Recent Uploads:
+- Tavaris Jackson - 71 days ago (live — 10,034 views)
+- CF27 - 66 days ago (live — 5,421 views)
+- Ian Wheeler - 58 days ago (live - 60 views)
+- Andrew Body - 17 days ago (live - 144 views)
+- CF27 HBCU Teambuilder Teams to Download - 3 days ago (live - 304 views)
 
 HOW TO UPDATE:
 After you drop each video, change the NEXT UP line to the next video in the schedule.

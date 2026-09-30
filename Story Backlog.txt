@@ -54,3 +54,30 @@ Angle: The Magic City Classic — Alabama State vs. Alabama A&M, played annually
 Search hook: "Magic City Classic," "biggest HBCU game," "Alabama State vs Alabama A&M," "HBCU football attendance," "HBCU classic games"
 Audience: 25-54; also captures general football fans searching for "biggest college football crowds"
 Source: https://www.birminghamtimes.com/2024/10/in-honor-of-the-magic-city-classic-we-celebrate-the-hbcus-10-greatest-football-dynasties/
+
+--- Added 2026-08-29 ---
+"From Houston to a Division II HBCU! What Happened?" — Sahfi Reed / University of Houston to Lincoln University (PA) (Transfer Story — used as Top Story in Scout-2026-08-29)
+Story: Philadelphia native Sahfi Reed was a dual-sport HS star (WR/DB + All-American sprinter) with D1 football offers from Syracuse, UConn, Temple, Akron, and Old Dominion, but chose to walk on both football and track at the University of Houston, a Power Four program. Limited to spot WR duty on the football field, he thrived on the track, earning USTFCCCA Second Team All-American honors in 2025 on Houston's 4x400m relay (season-best 3:03.49). In January 2026 he committed to Lincoln University (PA), a CIAA Division II HBCU with a legendary track program (17 NCAA titles), arriving with three years of football eligibility and elite verified speed (10.89/100m, 21.67/200m, 46.14/400m). He's already posted a 21.85 indoor 200m at Lincoln and is set to make his HBCU football debut in the 2026 season (started Aug 27-29).
+Why this works for JOC: Fits the proven "What Happened?" formula (names both schools) with a fresh double-hook — a Power Four athlete who chose a Division II HBCU to be a two-sport star instead of chasing another FBS bench role.
+Sources: https://hbcugameday.com/2026/02/04/power-four-to-hbcu-dual-sport-transfer-lincoln/ / https://uhcougars.com/sports/track-and-field/roster/sahfi-reed/9154
+
+"Two Eagles. Two HBCUs. One Stadium." — DeSean Jackson (Delaware State) vs. Michael Vick (Norfolk State) (Current Story / Program Milestone)
+Story: Former Philadelphia Eagles teammates DeSean Jackson and Michael Vick are now HBCU head coaches on opposite trajectories. Jackson went 8-4 in his 2025 debut at Delaware State (program's first winning season in over a decade), earned an extension through 2028, and has DSU chasing its first Black college national title since 2007. Vick went 1-11 in his 2025 debut at Norfolk State with no D-I wins, and enters year two naming Deljay Bailey his starting QB after what he calls a "180" in approach. The two teams meet October 31, 2026 at Lincoln Financial Field in Philadelphia — the Eagles' own stadium.
+Why this works for JOC: Built-in redemption-vs-rebuild comparison between two recognizable NFL names with a real date/venue to build a release around.
+Sources: https://hbcusports.com/2026/06/04/a-culture-change-overnight-desean-jackson-explains-delaware-states-rise/ / https://hbcusports.com/2026/08/24/michael-vick-reveals-norfolk-states-starting-quarterback/ / https://clutchpoints.com/hbcu/norfolk-state-delaware-state-matchup-gets-huge-location-update
+
+"The Only One Drafted: Carson Vinson's Path from Alabama A&M to the NFL" — Draft/Advocacy
+Story: Carson Vinson was the lone HBCU player selected in the 2025 NFL Draft (Baltimore Ravens, 5th round, No. 141) — Alabama A&M's first draftee since 2011 and first offensive player drafted in 30+ years. At 6'7", 320 lbs, he started all 48 college games, earned AFCA FCS All-America Second Team honors and SWAC Offensive Lineman of the Year, and was the only HBCU player invited to the 2025 NFL Combine and Reese's Senior Bowl. Entering his second NFL season in 2026.
+Why this works for JOC: A hopeful counter-narrative to the recurring "HBCU draft shutout" story — proof it can be done, told through one player's path.
+Sources: https://www.nfl.com/news/2025-nfl-draft-ravens-select-alabama-a-m-ot-carson-vinson-with-no-141-overall-pick / https://aamusports.com/news/2025/4/26/football-vinson-selected-by-the-baltimore-ravens-in-fifth-round.aspx
+
+"The Hall of Famer's Son Who Chose an HBCU" — Eden James / Howard University (Current Story)
+Story: Eden James, son of Pro Football Hall of Famer Edgerrin James, turned down Miami (his dad's alma mater), Indiana, and FAMU to sign with Howard, reportedly the highest-ranked recruit to sign with an HBCU in modern history. Now a senior with 1,488 career rushing yards and 7 TDs, he enters 2026 as the likely foundation of new head coach Ted White's rebuild after a 5-7 2025 season.
+Why this works for JOC: An instantly recognizable NFL surname pulls in a general audience who has no idea the connection to Howard football exists.
+Sources: https://collegefootballnetwork.com/who-is-eden-james-howard/ / https://clutchpoints.com/hbcu/who-is-eden-james-hbcu-star-son-of-edgerrin-james
+
+"The Nation's Oldest Black College Football Classic Opens the Season" — Orange Blossom Classic (Standalone Concept)
+Angle: The Orange Blossom Classic, dating to 1933 and the oldest Black college football classic in the country, opens the 2026 marquee-game calendar Sept. 6 in Miami Gardens with FAMU vs. South Carolina State on national TV. A history-plus-current-stakes explainer video.
+Search hook: "Orange Blossom Classic," "oldest HBCU football classic," "FAMU vs South Carolina State"
+Audience: 25-54, general HBCU culture audience
+Source: https://hbcubuzz.com/107433/2026-hbcu-football-classics-schedule/
