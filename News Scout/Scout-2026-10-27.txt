@@ -1,0 +1,85 @@
+---
+JOC WEEKLY NEWS SCOUT
+Week of: October 27, 2026
+
+TOP STORY THIS WEEK:
+Bethune-Cookman Wildcats — SWAC (Daytona Beach, FL)
+In Week 8 of the 2026 season (October 25), Bethune-Cookman University defeated previously top-ranked Jackson State 24-21 at home — the Wildcats' first win over the Tigers since joining the SWAC, and the single biggest upset in HBCU football this week. Jackson State had a final chance to force a tie but missed a 49-yard field goal as time expired. The result reshuffled the entire SWAC East and sent Alabama A&M to the top of the Black College Football Poll. The win doesn't exist in isolation: it is the culmination of a four-year rebuild by head coach Raymond Woodie Jr. that started with a 2-10 season in 2024, produced a 6-6 record and a dramatic 38-34 win over rival Florida A&M in the 2025 Florida Classic, and has now climbed to beating the conference's most celebrated program. The connective tissue between B-CU's history and this moment is Nick Collins — the school's most famous football alum. Collins was a 2002-2004 All-MEAC safety and three-year starter at B-CU, was drafted 51st overall by the Green Bay Packers in 2005 (the highest HBCU draft pick in that cycle), and his Super Bowl XLV interception return for a touchdown against Ben Roethlisberger (Packers 31, Steelers 25) is one of the most iconic plays in Super Bowl history. After his 2011 neck injury ended his playing career, Collins returned to B-CU as cornerbacks coach from 2023 to 2025 — a direct investment in the same program that made him. On January 15, 2026, Collins was elected to the Black College Football Hall of Fame. Now, four months after his induction, the program he helped build is beating Jackson State for the first time in program history while in the SWAC.
+Hook angle: "The school that produced the Super Bowl XLV hero — and then brought him back as a coach — just knocked the SWAC's most celebrated program out of the unbeaten ranks. This is the Bethune-Cookman story nobody has told."
+Audience this serves: 35-54 (Nick Collins/Super Bowl XLV nostalgia), 25-44 (current SWAC season), 18-34 (current generation of HBCU fans)
+Title format suggestion: Program milestone / Classic Era — "What Happened to Bethune-Cookman Football?" or "They Sent a Player to the Super Bowl. Then Everything Fell Apart. Now They're Back." or "The HBCU That Produced a Super Bowl Hero Just Shocked the Entire SWAC."
+Sources:
+- https://hbcugameday.com/2026/10/26/another-brand-new-no-1-takes-over-in-the-hbcu-football-poll/
+- https://clutchpoints.com/hbcu/bethune-cookman-news-raymond-woodie-believes-wildcats-are-ready-to-build-on-breakthrough-2025-season
+- https://www.packers.com/news/former-packers-all-pro-safety-nick-collins-elected-to-black-college-football-hall-of-fame-jan-16-2026
+- https://bcuathletics.com/news/2026/1/15/nick-collins-elected-to-black-college-football-hall-of-fame.aspx
+- https://en.wikipedia.org/wiki/Nick_Collins
+
+NOTE FOR SCRIPT WRITER: Nick Collins' Super Bowl interception return is the core emotional anchor of this story. His career arc (B-CU → 2nd round pick → Super Bowl hero → neck injury → returned to B-CU as a coach → HBCU Hall of Fame) before the current team's upset win is the documentary structure. Recommend confirming Woodie's full win-loss record (2023: unknown, 2024: 2-10, 2025: 6-6, 2026: TBD) and checking B-CU's MEAC-to-SWAC transition date for timeline accuracy. Also confirm whether Collins is still on staff in 2026 or departed after 2025.
+
+---
+
+VIDEO IDEAS (ranked by potential):
+
+1. "The HBCU That Produced a Super Bowl Hero Just Shocked the Entire SWAC" — B-CU Program Story
+Already covered in full in Top Story above.
+
+2. "He Bounced Around Four HBCU Programs. Then He Led the Comeback Nobody Saw Coming." — Isaiah Freeman / Howard University [Current Era]
+Story: Isaiah Freeman is a quarterback who was named the CIAA Offensive Player of the Year at Lincoln University (PA), one of the most productive individual seasons in Lincoln football history. He then transferred through multiple HBCU programs before landing at Howard University. On October 24, 2026, he came off the bench in the fourth quarter to lead Howard back from a 14-point deficit against Morgan State — a team that just entered the FCS Top 25 for the first time in HBCU history — to a 26-20 overtime victory. The winning score was a Ben Chandler IV 87-yard interception return in overtime. Freeman finished with 36 passing yards, 42 rushing yards, and two touchdowns in his limited playing time. The win opens MEAC play for Howard and is an inflection point in a three-team race between South Carolina State, Howard, and NC Central for the conference title.
+Why this works for JOC: The "journeyman quarterback who earned his moment" story is a classic JOC format — a player who bounced around the HBCU world, never got a true stage, and then delivered the most dramatic performance of the week. Freeman's Lincoln/CIAA background also ties the story to the Division II world that many JOC viewers come from. Not a Power 5 transfer, but a deeply personal HBCU journey.
+Source: https://hbcugameday.com/2026/10/27/hbcu-quarterback-answers-call-with-dramatic-comeback/ / https://hbcugameday.com/2026/10/24/howard-university-stuns-morgan-state-with-dramatic-overtime-comeback/
+
+3. "He Left His HBCU — Then Led All NFL Rookies in Rushing Touchdowns" — Jacory Croskey-Merritt [Draft / Advocacy — Current Era]
+Story: Jacory Croskey-Merritt began his college career at Alabama State, where he rushed for more than 1,100 yards and 13 touchdowns in one season — production that drew FBS attention. He transferred to New Mexico, then to Arizona, and the Washington Commanders selected him 245th overall in the 2025 NFL Draft. As a rookie in 2025, he led all NFL rookies in rushing touchdowns with eight — one of the more remarkable outputs by a late-round pick in recent memory. He enters 2026 on injured reserve with 1,044 career rushing yards and 10 touchdowns. His path — leave your HBCU to get drafted, succeed in the NFL — is both an individual triumph and a structural indictment. The three players drafted from HBCU programs in 2026 (Kevin Coleman, Karon Prunty, Eric Fuller) all had to transfer to FBS schools first; Croskey-Merritt's 2025 draft class was the same story.
+Why this works for JOC: A hopeful counter-narrative to the draft shutout story — an HBCU product who survived the transfer, made the NFL, and performed at the top of the league's rookie class. The "left his HBCU to get drafted" framing ties it to advocacy without being only about failure; it's about what it costs and what it can produce.
+Source: https://en.wikipedia.org/wiki/Jacory_Croskey-Merritt / https://www.si.com/nfl/commanders/news/nfl-washington-commanders-draft-running-back-jacory-croskey-merritt-get-to-know
+
+4. "Nobody Is Watching the SWAC's Most Important Race Right Now" — Alabama A&M's 2026 Championship Hunt [Current Season]
+Story: Alabama A&M (6-2, 3-1 SWAC East) rose to No. 1 in the Black College Football Poll after Bethune-Cookman's upset of Jackson State in Week 8 — the fourth different No. 1 team in four weeks, making this the most unpredictable SWAC race in recent memory. The Bulldogs enter the Magic City Classic on October 31 against in-state rival Alabama State at Legion Field in Birmingham. If Alabama A&M wins the Classic and holds through the remaining conference schedule, they're positioned for their first SWAC East title in years. But the Classic is also Birmingham's largest sporting event of the year — drawing 60,000-70,000 fans — and Alabama State has the conference experience to play spoiler.
+Why this works for JOC: Timely peg with the Classic happening this Saturday. Short-form video or community post candidate if Charlie doesn't want to script the full story. Also serves as a lead-in to the "Magic City Classic" standalone concept already in the backlog, which has fuller historical depth.
+Source: https://hbcugameday.com/2026/10/26/another-brand-new-no-1-takes-over-in-the-hbcu-football-poll/ / https://www.ncaa.com/standings/football/fcs/swac
+
+5. "The HBCU That Turned a Journeyman Walk-On Into the NFL's Most Feared Pass Rusher" — Michael Strahan / Texas Southern [Classic Era — Pre-2000]
+Story: This story is already in the backlog (added October 6, 2026) and is confirmed as a strong candidate, with Strahan's January 2025 College Football Hall of Fame induction making it freshly relevant. Surfacing here as a fifth idea to keep it visible for the Script Writer — Strahan's name search volume and the HOF peg make it the easiest classic era story to justify scripting this fall.
+NOTE: See full entry under "Added 2026-10-06" in Story Backlog.txt for complete sourcing.
+Why this works for JOC: Strahan's name drives massive cross-platform search (NFL, FOX Sports, GMA); the 2025 College Football HOF induction is a fresh peg; "HBCU pass rusher who set the NFL sack record" captures both football history and advocacy audiences.
+Source: https://en.wikipedia.org/wiki/Michael_Strahan / https://swac.org/news/2025/1/17/tsus-strahan-named-to-2025-college-football-hall-of-fame-class.aspx
+
+---
+
+STANDALONE VIDEO IDEAS:
+
+Idea A: "101 Years of the Game Nobody Outside Texas Knows About: The State Fair Classic"
+Angle: The 101st annual State Fair Classic was played September 26, 2026 at the Cotton Bowl in Dallas — Prairie View A&M vs. Grambling State, two programs that have met in the shadow of the Texas State Fair for over a century. This game predates the racial integration of major Texas college football. When UT and Texas A&M wouldn't let Black players suit up, the State Fair Classic in Dallas was where Black college football lived. The Cotton Bowl holds 92,000 fans; Dallas' sports commission actively promotes it as a civic institution; it generates tens of millions in economic activity — and still almost no one outside Texas knows its name.
+Search hook: "State Fair Classic history," "Prairie View vs Grambling," "oldest HBCU football game Texas," "Cotton Bowl HBCU," "101st State Fair Classic"
+Audience: 35-54 (historical depth), 25-44 (cultural pride, Texas football audience), also captures general Texas football fans searching Cotton Bowl history
+Source: https://www.dallassports.org/press/press-releases/city-of-dallas-and-dallas-sports-commission-countdown-to-kickoff-for-2026-state-fair-classic/ / https://hbcubuzz.com/107433/2026-hbcu-football-classics-schedule/
+
+Idea B: "Why NIL Is Making It Harder to Be an HBCU Program — And Impossible to Be a Fan"
+Angle: The 2026 transfer portal cycle was the third straight year HBCU programs lost significant talent to FBS schools — not because the football was better, but because Power 4 programs now pay players $14-16 million per year in rev-share money. HBCUs can't approach those numbers. An HBCU head coach said in 2026: "Division II players, especially from HBCUs, are gone before they've even developed. The portal isn't a tool for us. It's a drain." The video examines what NIL and rev-share have done to the HBCU development pipeline, and whether the NIL-era HBCU football model can survive without structural change.
+Search hook: "NIL kills HBCU football," "HBCU transfer portal 2026," "why HBCU players leave for Power 5," "college football NIL inequality," "HBCU revenue sharing"
+Audience: 25-44 (policy-aware football fans), 35-54 (institutional HBCU audience), also reaches general college football reform audiences
+Source: https://hbcugameday.com/2026/07/07/hbcu-coach-has-blunt-message-on-transfer-especially-for-division-ii-players/ / https://hbcusports.com/2025/06/06/schools-can-now-pay-college-athletes-what-does-that-mean-for-hbcus/
+
+---
+
+QUICK HITS (worth monitoring):
+
+- DeSean Jackson (Delaware State) vs. Michael Vick (Norfolk State) play FRIDAY, October 31 at Lincoln Financial Field in Philadelphia — the Eagles' own stadium. This story is fully researched in the Story Backlog (added August 29, 2026). Charlie, this is a community post/watch party opportunity right now. The game is 4 days away. A JOC community post framing "Which former Eagle do you want to win?" could drive serious engagement before the game.
+- Magic City Classic SATURDAY, October 31 at Legion Field, Birmingham — Alabama State vs. Alabama A&M. Story fully researched in Story Backlog (added July 2, 2026). Attendance should be 60,000+. Community post opportunity: "Who's going to the Classic?"
+- Bowie State erased a 4-point deficit with 34 seconds left to stun top-ranked Johnson C. Smith in the CIAA. The CIAA title race is now wide open. (Note: JCSU is the program Parker McQuarrie is starting at — see backlog entry from October 6.)
+- Lane College (SIAC) head football coach resigned mid-season; the athletic director has taken over as interim. Potential offseason story depending on who Lane hires next.
+- The MEAC race is now a genuine three-team contest: South Carolina State, Howard, and NC Central are all within reach of the conference title with five weeks remaining.
+- FAMU homecoming shooting left 12 people injured including six minors (October 25) — not a JOC video topic, but an important context item for anyone asking why coverage of HBCU homecoming events can feel complicated.
+
+---
+
+NOTES FOR CHARLIE:
+The Bethune-Cookman story is the week's cleanest top story — Nick Collins is one of the most underreported HBCU-to-NFL connections in football history, the Super Bowl XLV interception is iconic footage, and his coaching return to B-CU gives the story a full narrative circle that ends with this week's upset of Jackson State. The Script Writer should pull the Nick Collins Wikipedia page and the Packers' official HOF announcement for play-by-play detail on the Super Bowl sequence.
+
+TWO GAMES ARE HAPPENING THIS WEEK with full backlog research behind them: the DeSean Jackson/Vick game at Lincoln Financial Field (Friday Oct 31) and the Magic City Classic (Saturday Oct 31). Both are community post opportunities RIGHT NOW, not next week.
+
+The Jacory Croskey-Merritt story (#3) is the first genuinely fresh current-era advocacy piece that hasn't appeared in any previous scout. It's a hopeful counterweight to the draft shutout framing from the October 20 report — worth scripting as a companion piece to the "New Tax on Black College Athletes" backlog entry if Charlie wants a two-part sequence.
+
+Pattern note: Three of the five top video ideas this week involve programs or players based in the SWAC (B-CU, Alabama A&M, Croskey-Merritt from Alabama State). The SWAC is the dominant storyline right now. A "State of the SWAC" community post or a series framing would ride this momentum well.
+---
